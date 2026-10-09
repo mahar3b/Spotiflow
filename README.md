@@ -1,7 +1,7 @@
 # Spotiflow - Medallion Architecture Data Pipeline (Phase 2)
 
 ## Project Overview
-Spotiflow is an end-to-end Medallion Architecture data pipeline deployed on Databricks Community Edition. It ingests daily Spotify chart data scraped via GitHub Actions from Kworb, along with historical Kaggle chart data, enforcing strict schema contracts, idempotency, backfill capabilities, and execution auditing.
+Spotiflow is an end-to-end Medallion Architecture data pipeline deployed on Databricks Community Edition. It ingests daily Spotify chart data scraped via GitHub Actions from Kworb, along with historical Kaggle chart data, enforcing strict schema contracts, idempotency, backfill capabilities, and does execution auditing.
 
 ---
 
