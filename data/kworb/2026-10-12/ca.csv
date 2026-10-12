@@ -1,0 +1,201 @@
+pos,trend,artist_title,days,peak,streams,streams_change,seven_day,total,track_id,region
+1,=,Ella Langley - Choosin' Texas,358,1,207870,+4341,1331925,64021588,,ca
+2,=,ADÃLA - Nicole Kidman,37,2,168183,-19112,1139369,4743876,,ca
+3,=,Taylor Swift - Patient Zero,16,1,146384,-9620,1147021,4107159,,ca
+4,=,Drake - Quebec,9,1,130317,-15853,1095881,1583540,,ca
+5,+1,STELLA LEFTY - Boston,184,2,127814,+1592,822418,20856409,,ca
+6,-1,Drake - Solar Eclipse (w/ Don Toliver),9,1,115940,-16384,985339,1490365,,ca
+7,+1,Malcolm Todd - Earrings,227,2,111558,-10607,819781,27089102,,ca
+8,-1,Olivia Rodrigo - stupid song,121,1,111480,-14522,799864,15368253,,ca
+9,+1,The Killers - Mr. Brightside,2284,5,108853,-6407,748341,130613395,,ca
+10,+2,Olivia Dean - Man I Need,417,1,108202,-1878,678625,59174736,,ca
+11,=,Drake - Janice STFU,149,1,107163,-7262,763623,31277436,,ca
+12,-3,Olivia Rodrigo - the cure,142,3,104507,-16181,778994,17057188,,ca
+13,+2,ADÃLA - Ain't In LA,75,6,103603,-3303,719767,6031517,,ca
+14,+4,Alex Warren - Ordinary,611,1,98810,+206,650014,99629927,,ca
+15,+1,The Goo Goo Dolls - Iris,1509,6,97966,-6513,674001,109348674,,ca
+16,+1,Cameron Whitcomb - Kingdom of Fear,181,8,97201,-5049,651008,15872400,,ca
+17,+4,Tame Impala - Loser,72,2,97082,+3274,637186,7693141,,ca
+18,-4,Ashe - Stop The Wedding!,35,14,96885,-10457,671010,2203524,,ca
+19,=,Ella Langley - Be Her,240,4,96248,-583,629843,25880210,,ca
+20,+9,Fleetwood Mac - Dreams - 2001 Remaster,180,8,94751,+7558,585272,17131133,,ca
+21,-8,"Drake - Cold Shoulder (w/ Don Toliver, Yebba)",9,5,91797,-16688,834032,1231055,,ca
+22,+3,Ella Langley - weren't for the wind,554,5,88651,-2694,555784,41582748,,ca
+23,-1,Whiskey Myers - Broken Window Serenade,292,19,87894,-5165,610883,20466762,,ca
+24,-1,Dominic Fike - Babydoll,436,1,87372,-4888,608129,45521778,,ca
+25,-1,The Neighbourhood - Sweater Weather,2200,13,86836,-4579,620765,144067640,,ca
+26,=,Morgan Wallen - Been By Now,79,2,86513,-2630,577982,8418639,,ca
+27,=,P!nk - Just Give Me a Reason (w/ Nate Ruess),49,27,85774,-2553,528770,2766091,,ca
+28,=,Temper City - Self Aware,188,6,84496,-3403,624728,18162882,,ca
+29,+3,Vance Joy - Riptide,3077,3,82290,-2102,548764,136495890,,ca
+30,+14,Journey - Don't Stop Believin' (2022 Remaster),986,18,79371,+3533,511161,69733567,,ca
+31,+9,Benson Boone - Beautiful Things,995,1,79246,+556,539177,157461999,,ca
+32,+10,TLC - No Scrubs,248,19,77945,+30,502144,13014492,,ca
+33,+16,Shaboozey - A Bar Song (Tipsy),911,1,77149,+3124,486203,159410632,,ca
+34,-1,Sam Fender - Rein Me In (w/ Olivia Dean),209,33,76431,-7614,486737,13858946,,ca
+35,=,sombr - back to friends,574,3,75826,-6591,551432,70342906,,ca
+36,+2,Cody Johnson - Take Me Back (Leave Me There),58,36,75695,-4913,475626,3625830,,ca
+37,+11,Zach Bryan - Something in the Orange,1617,8,75418,+1342,502089,148664480,,ca
+38,-8,Noah Kahan - Orbiter,169,20,75409,-9059,556739,12336324,,ca
+39,-8,Mac Miller - Cinderella (w/ Ty Dolla $ign),173,12,75296,-9153,551986,14932280,,ca
+40,+6,Noah Kahan - Stick Season,1285,1,74574,-467,502440,135775327,,ca
+41,+19,Michael Jackson - Billie Jean,355,4,74314,+6571,454645,26843509,,ca
+42,+3,Ariana Grande - hate that i made you love me,135,2,74302,-1336,516739,17504111,,ca
+43,+9,Justin Bieber - Beauty And A Beat (w/ Nicki Minaj),190,1,74155,+1555,473070,21606209,,ca
+44,-3,Ravyn Lenae - Love Me Not,593,5,74069,-4108,504339,57367656,,ca
+45,+24,Shakira - Dai Dai (w/ Burna Boy),130,2,73809,+8825,442030,13151536,,ca
+46,-9,Morgan Wallen - Last Thing You Need (from GTAVI: The Album) (w/ Grand Theft Auto VI),24,6,72549,-9280,515522,2027382,,ca
+47,+3,Zach Bryan - I Remember Everything (w/ Kacey Musgraves),1142,1,72137,-1797,492461,138675308,,ca
+48,-28,Noah Kahan - Draw You Out (w/ The Hunger Games),9,4,72018,-22523,656483,1002997,,ca
+49,-15,Noah Kahan - Willing and Able,170,13,71808,-11948,552046,12496082,,ca
+50,+3,Taylor Swift - The Fate of Ophelia,373,1,71740,-594,488447,62563296,,ca
+51,-12,comehelpglo - onsra,39,16,69932,-9525,561172,2835613,,ca
+52,+4,Ella Langley - I Can't Love You Anymore (w/ Morgan Wallen),170,18,69665,+274,436538,14017906,,ca
+53,-10,Steve Lacy - oh yeah?,68,6,69421,-7308,531772,6034741,,ca
+54,-18,SIENNA SPIRO - Great Expectation,84,32,68576,-13489,520951,5080105,,ca
+55,+15,Creedence Clearwater Revival - Have You Ever Seen The Rain,1372,34,68161,+3230,412921,80543367,,ca
+56,-5,Djo - End of Beginning,843,1,67938,-4778,471971,84821004,,ca
+57,+4,Olivia Dean - So Easy (To Fall In Love),378,5,67270,-109,435131,39269244,,ca
+58,+22,Zara Larsson - Lush Life,710,4,66708,+4645,389847,41940334,,ca
+59,-12,Alyssa Grace - bloodstream,99,38,66459,-8412,482184,6188818,,ca
+60,-2,Disco Lines - No Broke Boys (w/ Tinashe),489,3,66165,-2720,440290,56396644,,ca
+61,-6,Teddy Swims - Lose Control,1104,3,66092,-3325,465281,127934669,,ca
+62,+6,RAYE - WHERE IS MY HUSBAND!,386,7,64706,-783,415397,36600510,,ca
+63,-1,Coldplay - Yellow,1412,23,64508,-2489,448046,79028624,,ca
+64,+41,"HUNTR/X - Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",475,1,63449,+7392,380169,76212035,,ca
+65,+29,Chris Stapleton - Tennessee Whiskey,1878,33,63114,+3648,401280,103271797,,ca
+66,+8,girl in red - we fell in love in october,161,50,62800,-1322,448694,8891611,,ca
+67,+11,Post Malone - I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen),883,1,62595,+287,398150,138099597,,ca
+68,-11,Olivia Rodrigo - drop dead,177,1,62461,-6862,454808,19541049,,ca
+69,+4,"KAROL G - BbY WOW (w/ Judeline, rusowsky)",30,69,62344,-2020,407597,1562955,,ca
+70,-11,sombr - Homewrecker,247,12,62181,-6062,435329,21298845,,ca
+71,+8,Rihanna - Don't Stop The Music,482,39,61538,-719,397116,27269635,,ca
+72,+9,Fleetwood Mac - The Chain - 2001 Remaster,180,72,61090,-574,377213,9963491,,ca
+73,-6,Nickelback - How You Remind Me,906,44,60996,-4754,408502,53535925,,ca
+74,-9,Harry Styles - Sign of the Times,386,12,60164,-6677,403493,20880307,,ca
+75,-12,Arctic Monkeys - 505,1260,45,60106,-6825,462620,66853091,,ca
+76,-12,Gigi Perez - Sailor Song,797,3,59951,-6925,438401,81609351,,ca
+77,+20,Zara Larsson - Midnight Sun,262,30,59940,+1430,389096,16617795,,ca
+78,+7,"Macklemore & Ryan Lewis - Can't Hold Us (w/ Macklemore, Ryan Lewis, Ray Dalton)",1582,28,59257,-1522,422320,83748175,,ca
+79,-25,Taylor Swift - Babylon,16,3,58872,-11400,506154,2061585,,ca
+80,-4,Radiohead - Creep,734,38,58847,-4690,419662,45658572,,ca
+81,+22,The Outfield - Your Love,235,49,58754,+2463,378784,13687236,,ca
+82,+11,"Drake - One Dance (w/ Wizkid, Kyla)",2359,1,58509,-1368,396391,140738370,,ca
+83,=,Lady Gaga - Die With A Smile (w/ Bruno Mars),785,1,58410,-2705,372316,101788964,,ca
+84,+7,Morgan Wallen - Last Night,1346,1,58173,-2043,379934,165096068,,ca
+85,-13,sombr - 12 to 12,438,11,58036,-6596,402486,34387250,,ca
+86,-4,Katy Perry - The One That Got Away,189,35,57561,-3673,408112,12989713,,ca
+87,-21,sombr - My Body Isn't Ready,57,40,57358,-8798,420245,3366881,,ca
+88,+30,Fleetwood Mac - Landslide,441,20,57311,+3080,392891,24742942,,ca
+89,-5,Hozier - Too Sweet,928,1,57162,-3738,406281,106609998,,ca
+90,-15,Jamie Miller - Babydoll,10,51,57149,-6423,377321,562516,,ca
+91,+16,Backstreet Boys - I Want It That Way,72,88,56891,+887,299120,2283277,,ca
+92,-3,Zach Bryan - Pink Skies,867,6,56673,-3961,400837,80845924,,ca
+93,-16,Kings of Leon - Sex on Fire,346,57,56652,-6015,399001,20128348,,ca
+94,-7,BigXthaPlug - Hell At Night (w/ Ella Langley),361,43,56563,-4125,371280,20390328,,ca
+95,+5,Oasis - Wonderwall - Remastered,250,11,56296,-1403,381437,13170784,,ca
+96,-6,Miguel - Sure Thing,667,10,55669,-4616,440302,42547058,,ca
+97,-26,Dexter and The Moonrocks - Freakinâ Out,193,19,55489,-9339,405823,13510983,,ca
+98,=,Mazzy Star - Fade Into You,181,65,55480,-2416,399125,9350952,,ca
+99,-4,Dua Lipa - Training Season,135,13,55425,-4021,433774,10479417,,ca
+100,+1,Morgan Wallen - I Got Better,512,6,55061,-2169,364896,42400697,,ca
+101,-9,Don Toliver - E85,254,6,54835,-5246,385418,22772564,,ca
+102,-16,Linkin Park - In the End,605,16,54785,-5978,399883,33439552,,ca
+103,+41,KATSEYE - Animal,79,7,54501,+3597,353687,5626870,,ca
+104,-2,Justin Bieber - DAISIES,456,1,54462,-2147,367738,51653223,,ca
+105,-17,F3miii - NOBLE,176,17,53789,-6857,388336,12194250,,ca
+106,+28,Shaboozey - Cowgirl,64,106,53729,+1796,334436,3199220,,ca
+107,+10,Riley Green - Worst Way,645,30,53484,-901,362409,43133847,,ca
+108,+19,Max McNown - Better Me For You (Brown Eyes),476,57,53363,+711,360843,26926920,,ca
+109,=,Bruno Mars - Risk It All,226,1,53199,-2620,358724,19512286,,ca
+110,=,PinkPantheress - Stateside + Zara Larsson (w/ Zara Larsson),282,1,52879,-2714,363148,29867691,,ca
+111,+14,Bruno Mars - I Just Might,275,1,52819,+128,343429,26504359,,ca
+112,-16,Staind - It's Been Awhile,37,87,52679,-6670,372274,1824266,,ca
+113,+7,The Police - Every Breath You Take,853,14,52372,-866,362236,49692111,,ca
+114,+10,Sixpence None The Richer - Kiss Me,48,81,52263,-430,343424,2308289,,ca
+115,+55,Michael Jackson - Beat It,173,17,52109,+3573,330326,13381121,,ca
+116,+27,AC/DC - Thunderstruck,865,55,52006,+1042,240199,44489618,,ca
+117,+4,Red Hot Chili Peppers - Under the Bridge,388,91,51872,-1288,345347,19299178,,ca
+118,+30,"DJ Goja - Mi Chico - Official - Jason Derulo x Melody (w/ Jason Derulo, Melody)",6,118,51554,+1077,236735,284137,,ca
+119,+16,Ella Langley - you look like you love me (w/ Riley Green),475,29,51517,-349,338779,29911492,,ca
+120,-4,Lord Huron - The Night We Met,1635,52,51041,-3615,364922,73644276,,ca
+121,+35,Myles Smith - Stargazing,837,12,50940,+1242,335542,69840892,,ca
+122,+10,Coldplay - Viva La Vida,1287,27,50779,-1333,350402,71898265,,ca
+123,+34,Luke Combs - Fast Car,1181,2,50587,+947,331140,103985634,,ca
+124,-16,Drake - Headlines,570,51,50464,-5419,364676,33263628,,ca
+125,+5,Wheatus - Teenage Dirtbag,213,79,50274,-2166,350066,10821986,,ca
+126,+3,Prince - Purple Rain,106,20,50202,-2255,345953,6034571,,ca
+127,+1,Nelly Furtado - Promiscuous (w/ Timbaland),628,21,50084,-2455,337178,31558957,,ca
+128,+19,"Pitbull - Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",738,42,49894,-648,341051,41269338,,ca
+129,+35,Dasha - Austin,823,8,49874,+752,323275,84142224,,ca
+130,-4,Nirvana - Smells Like Teen Spirit - Remastered,840,86,49701,-2981,352250,38308088,,ca
+131,-25,Linkin Park - Numb,747,23,49673,-6349,363817,40407755,,ca
+132,-21,Foo Fighters - Everlong,638,47,49612,-5895,365458,30347626,,ca
+133,-34,Taylor Swift - Pink Clouding,16,3,49580,-8221,431192,1918698,,ca
+134,+26,Dave - Raindance (w/ Tems),282,15,49377,-82,345656,20915109,,ca
+135,+11,Natasha Bedingfield - Unwritten,606,27,49318,-1322,339138,37419777,,ca
+136,+2,Gracie Abrams - Thatâs So True,588,1,49041,-2340,335357,73028021,,ca
+137,-33,GENER8ION - STORM II (w/ Yung Lean),12,75,48998,-7276,378305,664249,,ca
+138,+54,Shakira - Hips Don't Lie (w/ Wyclef Jean),283,33,48994,+2181,141035,15279315,,ca
+139,+22,Chris Stapleton - You Should Probably Leave,1233,50,48931,-461,188347,72668160,,ca
+140,+5,Teddy Swims - The Door,628,57,48859,-2007,338845,37120583,,ca
+141,-19,French Montana - Unforgettable (w/ Swae Lee),1465,1,48853,-4142,336210,91187916,,ca
+142,+49,"Earth, Wind & Fire - September",305,29,48853,+2005,139648,15706074,,ca
+143,+6,Post Malone - Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee),2337,1,48853,-1624,325768,165133588,,ca
+144,-13,Billie Eilish - BIRDS OF A FEATHER,874,2,48667,-3736,328196,117919536,,ca
+145,+7,The Cranberries - Linger - Remastered 2026,38,86,48474,-1560,334083,1889419,,ca
+146,-10,Metallica - Enter Sandman - Remastered 2021,472,109,48427,-3429,336325,24158370,,ca
+147,+19,Eagles - Hotel California - 2013 Remaster,881,61,48421,-423,143191,33827446,,ca
+148,-11,3 Doors Down - Kryptonite,187,40,48161,-3505,242876,9172833,,ca
+149,+48,Brooks & Dunn - Neon Moon,40,132,48131,+1969,94293,1911985,,ca
+150,-35,Tove Lo - Talking Body,328,9,48001,-6731,358241,6023869,,ca
+151,-32,Tory Lanez - The Color Violet,1375,8,47827,-5906,355908,87104789,,ca
+152,+32,Guns N' Roses - Sweet Child O' Mine,415,80,47739,+37,181627,18507321,,ca
+153,+2,Noah Kahan - Northern Attitude,306,35,47683,-2093,320623,17176937,,ca
+154,-42,Steve Lacy - the feeling,17,60,47659,-7564,388441,864398,,ca
+155,-32,Evanescence - Bring Me To Life,187,89,47653,-5078,341731,9120387,,ca
+156,-42,Bella Kay - iloveitiloveitiloveit,239,2,47525,-7615,364503,23256190,,ca
+157,RE,Billy Joel - Piano Man,235,82,47445,,226574,11907976,,ca
+158,RE,Fleetwood Mac - Everywhere,40,134,47301,,47301,1977033,,ca
+159,-46,Olivia Rodrigo - honeybee,100,3,47063,-8145,348721,7719335,,ca
+160,-18,Noah Kahan - The Great Divide,249,1,47023,-4010,341971,19563195,,ca
+161,-3,Train - Drops of Jupiter,94,132,47017,-2604,189412,4338748,,ca
+162,-21,Hozier - Take Me To Church,2078,1,46976,-4218,358771,89274381,,ca
+163,-30,Coldplay - Sparks,557,30,46750,-5344,345431,33951462,,ca
+164,+22,Luke Combs - Ain't No Love In Oklahoma (From Twisters: The Album),856,13,46721,-261,271295,66371907,,ca
+165,+13,Karan Aujla - Ashke (w/ Mxrci),16,12,46718,-1583,356547,1097069,,ca
+166,-13,Red Hot Chili Peppers - Scar Tissue - 2014 Remaster,220,54,46588,-3445,327122,12502688,,ca
+167,RE,"Taylor Swift - I Knew It, I Knew You",126,1,46546,,224491,11005492,,ca
+168,=,Bruno Mars - Locked out of Heaven,675,18,46384,-2320,142266,29911820,,ca
+169,+18,The Cranberries - Zombie - 2025 Remastered,42,119,46255,-625,311629,1990956,,ca
+170,-8,Morgan Wallen - I'm The Problem,616,1,46183,-3112,318553,47954735,,ca
+171,RE,ROSÃ - APT. (w/ Bruno Mars),687,1,46149,,91008,79374042,,ca
+172,+18,Luke Combs - Where the Wild Things Are,750,30,45930,-939,265393,52745172,,ca
+173,-6,Buffalo Traffic Jam - Fool's Gold,20,152,45817,-2944,320614,934069,,ca
+174,-2,Bruno Mars - Just the Way You Are,494,29,45596,-2893,320250,25330596,,ca
+175,RE,Darius Rucker - Wagon Wheel,775,35,45551,,88179,36614457,,ca
+176,+12,Rihanna - Only Girl (In The World),96,27,45528,-1352,132098,4648617,,ca
+177,+4,Fetty Wap - Trap Queen,899,3,45211,-2745,184451,30981081,,ca
+178,+22,Ella Langley - Loving Life Again,73,28,45107,-788,91002,4344799,,ca
+179,-2,Gorillaz - Feel Good Inc,547,53,45090,-3231,336977,29581237,,ca
+180,+3,bÃ´a - Duvet,18,98,45051,-2771,336522,881521,,ca
+181,RE,"USHER - Yeah! (w/ Lil Jon, Ludacris)",645,16,44879,,175728,33631789,,ca
+182,-3,"Waka Flocka Flame - No Hands (w/ Roscoe Dash, Wale)",119,89,44735,-3409,139146,6293451,,ca
+183,-8,Drake - Passionfruit,1217,1,44719,-3724,322970,64771675,,ca
+184,RE,Luke Combs - When It Rains It Pours,1605,32,44711,,87036,85445180,,ca
+185,RE,TOTO - Africa,836,75,44662,,177284,35232656,,ca
+186,-13,Treaty Oak Revival - Missed Call,99,130,44640,-3830,316296,4652658,,ca
+187,RE,Marvin Gaye - Ain't No Mountain High Enough (w/ Tammi Terrell),257,46,44487,,44487,12279387,,ca
+188,+1,Morgan Wallen - What I Want (w/ Tate McRae),504,1,44478,-2394,183700,50998249,,ca
+189,RE,Bon Jovi - Livin' On A Prayer,102,123,44302,,44302,3837231,,ca
+190,RE,AC/DC - Highway to Hell,153,21,44270,,84816,7920637,,ca
+191,RE,America - A Horse with No Name (w/ George Martin),6,164,44023,,44023,275847,,ca
+192,RE,Outkast - Hey Ya!,161,47,43959,,43959,7725703,,ca
+193,-42,Taylor Swift - Cleveland!,16,2,43909,-6143,395719,1940171,,ca
+194,-55,Kings of Leon - Wait for Me,18,102,43905,-7444,347979,878456,,ca
+195,-30,Don Toliver - No Pole,595,22,43886,-4972,315628,39736035,,ca
+196,RE,Sean Paul - Temperature,392,49,43843,,197229,20741777,,ca
+197,-3,Natasha Bedingfield - Pocketful of Sunshine,20,160,43842,-2964,135834,926336,,ca
+198,RE,Michael Jackson - Thriller,56,2,43829,,43829,4601571,,ca
+199,-3,Bruno Mars - That's What I Like,841,7,43803,-2362,89968,46136091,,ca
+200,RE,Rihanna - We Found Love (w/ Calvin Harris),624,7,43781,,84254,28071300,,ca
