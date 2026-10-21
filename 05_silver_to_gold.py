@@ -2,8 +2,6 @@
 # /// script
 # [tool.databricks.environment]
 # environment_version = "6"
-# ///
-# Databricks Notebook: 05_silver_to_gold
 from pyspark.sql.functions import col, sum, count, min, max, first, expr, current_timestamp, date_format, dayofweek, year, month, dayofmonth
 from datetime import datetime
 
