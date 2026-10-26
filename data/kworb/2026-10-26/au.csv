@@ -1,0 +1,201 @@
+pos,trend,artist_title,days,peak,streams,streams_change,seven_day,total,track_id,region
+1,=,Tate McRae - Housewife,9,1,355399,-46814,2443113,2875095,,au
+2,+1,ADÃLA - Nicole Kidman,49,1,211107,+21036,1351745,7597384,,au
+3,-1,Ella Langley - Choosin' Texas,332,1,183428,-13934,1357544,53330339,,au
+4,=,Olivia Dean - Man I Need,436,1,170058,-3630,1293095,118739146,,au
+5,=,Sam Fender - Rein Me In (w/ Olivia Dean),411,2,158264,-9619,1213242,60730217,,au
+6,=,Olivia Rodrigo - expectations (w/ Chappell Roan),9,6,137624,-18598,989485,1240042,,au
+7,+1,Ashe - Stop The Wedding!,58,5,136331,-4467,1028655,5562827,,au
+8,+2,The Killers - Mr. Brightside,4187,4,126394,-1754,904354,254943084,,au
+9,=,STELLA LEFTY - Boston,200,4,121253,-7234,885560,21592931,,au
+10,+1,ADÃLA - Ain't In LA,88,8,118061,+733,843488,8029683,,au
+11,-4,Zach Bryan - Lies (w/ Lana Del Rey),9,7,115721,-39501,917420,1103883,,au
+12,=,Olivia Rodrigo - stupid song,136,1,111600,-5450,862366,19809017,,au
+13,+4,P!nk - Just Give Me a Reason (w/ Nate Ruess),92,13,104896,-1272,744502,6407833,,au
+14,+7,Tame Impala - Loser,90,4,104875,+8638,729441,9301161,,au
+15,=,Olivia Rodrigo - the cure,156,1,102440,-4756,787515,21494828,,au
+16,=,The Goo Goo Dolls - Iris,2090,6,101772,-5358,762743,158184370,,au
+17,-4,Zara Larsson - Midnight Sun,291,13,100753,-8494,716853,20234658,,au
+18,-4,Jamie Miller - Babydoll,26,14,99743,-8827,715375,2320941,,au
+19,=,SIENNA SPIRO - Great Expectation,110,6,95961,-3895,724499,10046881,,au
+20,+9,Malcolm Todd - Earrings,211,4,95615,+4525,706361,27303157,,au
+21,+2,Disco Lines - No Broke Boys (w/ Tinashe),504,2,93611,-638,599915,82742987,,au
+22,=,Olivia Dean - So Easy (To Fall In Love),394,2,92404,-2113,696241,65810325,,au
+23,-5,Kings of Leon - Sex on Fire,2109,17,91536,-9187,682947,123760150,,au
+24,-4,sombr - Homewrecker,261,3,90572,-8370,712001,33386663,,au
+25,+3,TLC - No Scrubs,1791,8,90350,-1088,630750,72639671,,au
+26,-1,Zara Larsson - Lush Life,1090,4,90154,-2895,623327,63833470,,au
+27,+3,Alex Warren - Ordinary,625,1,88727,-2321,672099,112863915,,au
+28,-1,Fleetwood Mac - Dreams - 2001 Remaster,194,10,88669,-3060,667616,20811024,,au
+29,+5,sombr - 12 to 12,457,3,85182,-3339,661944,67382923,,au
+30,+3,Taylor Swift - Patient Zero,30,1,82007,-7890,686810,4906857,,au
+31,-5,Whiskey Myers - Broken Window Serenade,181,25,79365,-13679,643519,12379049,,au
+32,+3,Olivia Dean - Nice To Each Other,506,5,79265,-4599,601417,62897641,,au
+33,-9,Zach Bryan - I Remember Everything (w/ Kacey Musgraves),1157,4,79065,-14894,593145,132938135,,au
+34,+5,RAYE - WHERE IS MY HUSBAND!,401,2,78642,+33,541767,56748654,,au
+35,+1,Temper City - Self Aware,189,10,78425,-3467,590893,19180571,,au
+36,-5,Kings of Leon - Wait for Me,53,24,76894,-13170,595407,3380177,,au
+37,+1,sombr - back to friends,588,2,75722,-4908,595692,87224503,,au
+38,-1,Bella Kay - iloveitiloveitiloveit,260,1,75165,-5642,583810,39365165,,au
+39,-7,Zach Bryan - Something in the Orange,1596,5,74712,-15298,595766,159954290,,au
+40,+6,Natasha Bedingfield - Unwritten,962,13,74279,-165,513681,70035664,,au
+41,=,Dominic Fike - Babydoll,741,4,73588,-3605,528567,64103281,,au
+42,+9,Justin Bieber - Beauty And A Beat (w/ Nicki Minaj),276,2,73324,+805,529421,25604425,,au
+43,+14,Michael Jackson - Billie Jean,470,3,72582,+2833,499240,37127933,,au
+44,+17,Dave - Raindance (w/ Tems),361,4,72445,+3313,490514,42544851,,au
+45,-2,Ravyn Lenae - Love Me Not,609,4,72349,-3941,558545,69221957,,au
+46,-6,sombr - My Body Isn't Ready,110,13,71492,-7080,565483,7899614,,au
+47,-3,Vance Joy - Riptide,4377,9,70897,-4833,549748,229185958,,au
+48,=,Journey - Don't Stop Believin' (2022 Remaster),922,24,70615,-2829,500691,63325559,,au
+49,+4,Benson Boone - Beautiful Things,1010,1,69784,-1931,506353,163975122,,au
+50,-1,Tove Lo - Talking Body,263,48,69642,-3390,507381,6368405,,au
+51,-1,PinkPantheress - Stateside + Zara Larsson (w/ Zara Larsson),295,2,69417,-3469,509852,33570040,,au
+52,+4,Alyssa Grace - bloodstream,142,17,68068,-2168,527861,11727743,,au
+53,-11,JADE - Angel Of My Dreams,5,42,67699,-8847,357439,357439,,au
+54,=,Tate McRae - Sports car,529,3,67185,-3815,467844,50375403,,au
+55,-8,Miguel - Sure Thing,894,11,66867,-6591,503523,56958802,,au
+56,-4,Ella Langley - Be Her,204,37,64658,-7641,481729,15954154,,au
+57,+22,"HUNTR/X - Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",490,1,64583,+2319,434995,82673063,,au
+58,+6,"White Noise Radiance - Rain Sounds for Sleeping, Pt. 06 (Continuous No Gaps) (w/ Rain Sounds)",270,5,64232,-1616,484618,29869960,,au
+59,-1,Noah Kahan - Orbiter,168,22,62845,-6861,527706,11918219,,au
+60,+6,The Neighbourhood - Sweater Weather,2174,20,62827,-2536,478381,133390053,,au
+61,-1,Nickelback - How You Remind Me,945,50,62548,-6693,472854,55539948,,au
+62,+6,Fleetwood Mac - Landslide,478,29,62201,-2940,451169,29858314,,au
+63,+4,Fleetwood Mac - Everywhere,211,56,61555,-3614,428721,11946871,,au
+64,-5,Kings of Leon - Use Somebody,725,48,61176,-8110,489328,40967331,,au
+65,+10,Creedence Clearwater Revival - Have You Ever Seen The Rain,1467,39,61038,-2194,422529,86129888,,au
+66,+7,Taylor Swift - The Fate of Ophelia,387,1,60752,-2802,478696,63992966,,au
+67,-4,Harry Styles - Sign of the Times,440,9,60491,-6005,473023,26528610,,au
+68,-6,Shaboozey - A Bar Song (Tipsy),926,1,60466,-6277,445605,141234313,,au
+69,-4,Olivia Dean - Baby Steps,379,14,60139,-5304,467887,30494755,,au
+70,+4,Oasis - Wonderwall - Remastered,2535,19,59917,-3367,436762,91219042,,au
+71,=,F3miii - NOBLE,198,16,59607,-4487,453221,15425929,,au
+72,+11,Wheatus - Teenage Dirtbag,536,52,59603,-1422,433959,28214859,,au
+73,-4,Ella Langley - weren't for the wind,341,45,59376,-4925,454433,21151617,,au
+74,-4,Djo - End of Beginning,848,2,58954,-5305,453219,98150572,,au
+75,+35,KATSEYE - Animal,93,6,58885,+3661,371616,6880792,,au
+76,+17,"Macklemore & Ryan Lewis - Can't Hold Us (w/ Macklemore, Ryan Lewis, Ray Dalton)",1679,28,58536,-778,436855,92946197,,au
+77,+14,Nelly Furtado - Promiscuous (w/ Timbaland),1730,53,58449,-1023,445419,81552077,,au
+78,+6,The Police - Every Breath You Take,981,14,58382,-2102,406358,61082873,,au
+79,-24,Zach Bryan - Pink Skies,873,11,58302,-12546,469404,74950701,,au
+80,+10,Ariana Grande - hate that i made you love me,148,1,57854,-1828,422512,17673122,,au
+81,+45,Olivia Rodrigo - drop dead,191,1,57536,+3965,418432,20783559,,au
+82,-6,Noah Kahan - Stick Season,1113,1,57459,-5548,496762,132495158,,au
+83,+2,Tame Impala - The Less I Know The Better,2081,6,57376,-2946,454248,81290955,,au
+84,-2,The Cranberries - Zombie - 2025 Remastered,54,67,57317,-4254,393786,2795907,,au
+85,+23,Michael Jackson - Beat It,188,7,57215,+1914,387954,18893415,,au
+86,-6,Mac Miller - Cinderella (w/ Ty Dolla $ign),172,12,57015,-5202,439582,15710101,,au
+87,-9,Teddy Swims - Lose Control,1086,5,56972,-5541,421734,140291431,,au
+88,-43,Zach Bryan - Lodi When,9,40,56736,-18336,490101,626526,,au
+89,-3,Olivia Dean - A Couple Minutes,378,19,56708,-3450,466646,29141579,,au
+90,+8,Katy Perry - The One That Got Away,192,41,56564,-837,436935,13402246,,au
+91,-4,Calvin Harris - Feel So Close,348,10,56490,-3449,413212,16210595,,au
+92,=,SIENNA SPIRO - Material Lover - from The Devil Wears Prada 2 Original Motion Picture,114,39,56395,-2969,407565,7768593,,au
+93,-16,sombr - undressed,582,2,55961,-6761,456659,74862548,,au
+94,-13,Justin Bieber - DAISIES,471,1,55356,-6366,454938,63552388,,au
+95,-7,Coldplay - Yellow,2078,8,55349,-4394,415602,115274574,,au
+96,=,Bruno Mars - Locked out of Heaven,817,4,55300,-2373,440642,38230085,,au
+97,-25,Noah Kahan - Willing and Able,175,21,55298,-8523,472383,11046620,,au
+98,-4,Tate McRae - Just Keep Watching (From F1Â® The Movie) (w/ F1 The Album),441,4,55119,-3658,348512,39525030,,au
+99,=,Train - Drops of Jupiter,867,50,54830,-2510,433579,48879517,,au
+100,+3,Steve Lacy - oh yeah?,83,10,54122,-1695,434358,6546501,,au
+101,-4,Mazzy Star - Fade Into You,400,72,54007,-3663,401114,20350936,,au
+102,+17,Dua Lipa - Training Season,161,18,53605,-550,392199,13360261,,au
+103,+9,Sixpence None The Richer - Kiss Me,60,58,53507,-1512,404402,3276757,,au
+104,-15,Lola Young - Messy,584,1,53317,-6389,426678,64227799,,au
+105,-10,Calvin Harris - Outside (w/ Ellie Goulding),524,2,53264,-4909,427415,13654708,,au
+106,-2,Gracie Abrams - Thatâs So True,720,1,53153,-2603,418284,96735296,,au
+107,-7,"Drake - One Dance (w/ Wizkid, Kyla)",2503,1,53086,-3908,391564,138628985,,au
+108,+8,Rihanna - We Found Love (w/ Calvin Harris),769,15,52816,-1700,387351,37470425,,au
+109,-8,Olivia Dean - The Hardest Part,427,18,52806,-4120,407247,33568308,,au
+110,+1,TOTO - Africa,2634,32,52731,-2461,395920,114609021,,au
+111,+3,Billie Eilish - BIRDS OF A FEATHER,892,1,52359,-2577,408314,143995814,,au
+112,+30,Robyn - Dancing On My Own,85,95,52290,+48,222353,4348257,,au
+113,+5,Crowded House - Don't Dream It's Over,780,10,52124,-2216,392952,55567059,,au
+114,-1,SIENNA SPIRO - Die On This Hill,311,17,51850,-3121,389231,22069630,,au
+115,-8,Chris Stapleton - Tennessee Whiskey,1222,59,51759,-3660,366367,68513782,,au
+116,-11,Bon Jovi - Livin' On A Prayer,421,75,51621,-4101,364198,16908546,,au
+117,+16,Radiohead - Creep,579,55,51540,-1298,380616,33232021,,au
+118,-3,Nirvana - Smells Like Teen Spirit - Remastered,1208,71,51084,-3444,393111,55060403,,au
+119,+9,The Cranberries - Linger - Remastered 2026,54,70,51029,-2473,380342,2837455,,au
+120,+23,Mark Ronson - Valerie (w/ Amy Winehouse),369,73,50945,-1080,353135,19603218,,au
+121,+38,Chappell Roan - Pink Pony Club,810,2,50929,+503,364306,75678410,,au
+122,-2,"Justice - Flower In A Hurricane (w/ Tame Impala, SZA, Grand Theft Auto VI, King Gizzard & The Lizard Wizard)",9,64,50793,-3327,380563,496886,,au
+123,+28,WALK THE MOON - Shut Up and Dance,2017,6,50784,-190,202789,75480655,,au
+124,+12,Olivia Rodrigo - expectations,95,13,50686,-2010,382972,6646916,,au
+125,+7,Tears For Fears - Everybody Wants To Rule The World,1050,44,50568,-2605,366842,51274145,,au
+126,-20,Empire Of The Sun - Walking On A Dream,1491,42,50399,-5058,380579,74785212,,au
+127,+4,"Drake - Hold On, We're Going Home (w/ Majid Jordan)",595,76,50324,-2938,318889,4849877,,au
+128,+13,Lady Gaga - Die With A Smile (w/ Bruno Mars),795,2,50294,-1956,400666,101820667,,au
+129,-4,Hozier - Too Sweet,946,1,50129,-3485,432317,107456483,,au
+130,-3,Silva Bumpa - On 2nite,31,127,49851,-3661,204478,1541080,,au
+131,+58,ROSÃ - APT. (w/ Bruno Mars),705,1,49811,+1790,149265,87467334,,au
+132,-9,Red Hot Chili Peppers - Under the Bridge,1378,63,49799,-3912,375744,62047840,,au
+133,+1,Gigi Perez - Sailor Song,815,4,49796,-3033,396232,86558697,,au
+134,+22,Rihanna - Don't Stop The Music,389,63,49695,-900,367897,20554418,,au
+135,+17,The Chainsmokers - Closer (w/ Halsey),2148,1,49617,-1297,294121,106860880,,au
+136,+35,Rihanna - Kiss It Better,235,54,49416,+136,372091,8869737,,au
+137,-28,Chrystal - The Days - NOTION Remix (w/ NOTION),683,4,49143,-6148,367875,67554272,,au
+138,-16,Calvin Harris - Sweet Nothing (w/ Florence Welch),32,17,49008,-4801,303632,1784050,,au
+139,-2,Olivia Dean - Ok Love You Bye,413,26,49004,-3691,361996,28355746,,au
+140,-23,Cameron Whitcomb - Kingdom of Fear,144,72,48971,-5422,378750,8163556,,au
+141,-12,"HUGEL - Movin' To The Sun (w/ Imael Angel, Ultra NatÃ©)",53,54,48792,-4639,352575,2992355,,au
+142,+4,Coldplay - Viva La Vida,1418,16,48496,-3151,373918,84183565,,au
+143,-5,Florence + The Machine - Dog Days Are Over,575,52,48476,-4155,381265,28354090,,au
+144,+34,Rihanna - Only Girl (In The World),267,72,48325,-283,268767,13518495,,au
+145,-24,Bruce Springsteen - I'm on Fire,386,56,48310,-5774,323291,21369617,,au
+146,-16,Foo Fighters - Everlong,929,32,48269,-5151,392909,45362777,,au
+147,+10,Alex Warren - FEVER DREAM,230,17,48239,-2355,350790,17271676,,au
+148,+7,The Outfield - Your Love,112,80,48222,-2440,349667,5903927,,au
+149,+1,Red Hot Chili Peppers - Scar Tissue - 2014 Remaster,239,43,48032,-3257,362487,15104995,,au
+150,+15,AC/DC - Thunderstruck,670,31,47901,-1946,196629,37332124,,au
+151,+11,Fleetwood Mac - The Chain - 2001 Remaster,194,52,47825,-2476,382020,11905385,,au
+152,+2,The Verve - Bitter Sweet Symphony,336,96,47803,-3070,361457,16793480,,au
+153,-13,Evanescence - Bring Me To Life,410,101,47707,-4570,367453,20913207,,au
+154,+28,Nelly Furtado - Maneater,122,99,47592,-761,345743,6156230,,au
+155,+11,Bruno Mars - I Just Might,289,7,47459,-2358,344183,25275266,,au
+156,RE,Tame Impala - Dracula,340,20,47277,,302937,26955077,,au
+157,-22,"DJ Goja - Mi Chico - Official - Jason Derulo x Melody (w/ Jason Derulo, Melody)",24,95,47152,-5644,354175,1246614,,au
+158,+2,"Timbaland - The Way I Are (w/ Keri Hilson, D.O.E.)",967,65,47064,-3323,309513,48382615,,au
+159,+20,Audrey Hobert - Sue me,116,62,46912,-1628,355609,6369967,,au
+160,-12,Drake - Janice STFU,163,3,46899,-4473,354708,16248202,,au
+161,-59,Kings of Leon - Pyro,16,100,46878,-10035,323093,762923,,au
+162,-18,Linkin Park - In the End,823,19,46830,-4909,378431,45964851,,au
+163,+1,Dominic Fike - White Keys,274,8,46726,-3365,364071,25908250,,au
+164,-1,Post Malone - Circles,1711,2,46620,-3606,373584,125503746,,au
+165,-4,Hozier - Take Me To Church,2891,2,46617,-3766,354595,126790805,,au
+166,-21,Harry Styles - American Girls,204,2,46599,-5067,203739,18069424,,au
+167,-28,"Fred again.. - Victory Lap (w/ Skepta, PlaqueBoyMax)",442,2,46552,-5726,208179,40395775,,au
+168,+26,Olivia Dean - Dive,409,17,46387,-1235,262427,30060383,,au
+169,+12,Powderfinger - My Happiness,673,24,46376,-2060,191415,25130559,,au
+170,-3,Billy Joel - Piano Man,288,69,46368,-3444,243246,15898333,,au
+171,RE,Ariana Grande - Into You,387,7,46304,,93482,17252038,,au
+172,+1,SIDEPIECE - Can I Ride (w/ 95 South),2,172,46278,-2836,95392,95392,,au
+173,-4,Teddy Swims - Mr. Know It All,57,107,46225,-3292,344108,2894460,,au
+174,+14,Tate McRae - greedy,922,1,46200,-1836,248112,101543944,,au
+175,+12,"Pitbull - Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",495,56,46189,-1914,293917,26468859,,au
+176,-2,Guns N' Roses - Sweet Child O' Mine,353,90,46110,-2915,350225,15535458,,au
+177,RE,RAYE - Escapism. (w/ 070 Shake),416,3,46054,,144769,36479960,,au
+178,RE,Myles Smith - Stargazing,857,10,46019,,292901,81871738,,au
+179,+1,Black Eyed Peas - Meet Me Halfway,212,85,45937,-2603,380930,11361074,,au
+180,RE,Rihanna - S&M,147,99,45932,,206880,7282445,,au
+181,-28,Metallica - Enter Sandman - Remastered 2021,572,26,45692,-5196,302298,33949607,,au
+182,-14,Prospa - Free Your Mind (w/ Cloonee),77,92,45642,-3963,191912,3971020,,au
+183,-6,Luke Combs - Fast Car,1143,3,45321,-3468,290472,97512431,,au
+184,+2,Bruce Springsteen - Dancing In the Dark,732,51,45171,-3033,140803,40309897,,au
+185,-13,Post Malone - I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen),899,1,45081,-4190,358161,119573169,,au
+186,+5,ANOTR - Talk To You (ft. 54 Ultra) (w/ 54 Ultra),44,101,45081,-2657,191476,2222679,,au
+187,RE,Miley Cyrus - Party In The U.S.A.,2328,27,45067,,45067,104925189,,au
+188,-30,3 Doors Down - Kryptonite,111,51,44957,-5512,202430,5528587,,au
+189,-4,Bryan Adams - Summer Of '69,2030,47,44957,-3257,93171,82017296,,au
+190,RE,Black Eyed Peas - I Gotta Feeling,275,31,44939,,44939,10488167,,au
+191,RE,Alex Warren - Carry You Home,785,22,44933,,44933,53692186,,au
+192,+4,G Flip - Bed on Fire,124,34,44735,-2634,187082,7728156,,au
+193,-1,Disclosure - Latch (w/ Sam Smith),717,25,44694,-2966,335734,12566261,,au
+194,-19,Calvin Harris - Blessings (w/ Clementine Douglas),195,36,44681,-4279,140601,10619058,,au
+195,-71,Zach Bryan - Nine Ball,63,88,44673,-9004,210892,3004065,,au
+196,-1,Prince - Purple Rain,169,38,44613,-2926,338438,9386324,,au
+197,RE,"USHER - Yeah! (w/ Lil Jon, Ludacris)",809,60,44436,,44436,36929658,,au
+198,-14,Linkin Park - Numb,668,27,44331,-3935,348153,35299788,,au
+199,-2,Flume - Never Be Like You (w/ Kai),1026,1,44327,-2797,193884,50661366,,au
+200,-24,The Fray - How to Save a Life,454,50,44214,-4689,359726,24831673,,au
