@@ -1,0 +1,201 @@
+pos,trend,artist_title,days,peak,streams,streams_change,seven_day,total,track_id,region
+1,=,Tate McRae - Housewife,20,1,464856,+2263,3457574,10116625,,de
+2,=,AYLIVA - FÃ¼r immer,6,2,211306,-10396,1615210,1615210,,de
+3,+3,The Killers - Mr. Brightside,1204,1,201196,+2165,1500339,144023368,,de
+4,-1,ADÃLA - Ain't In LA,83,3,195448,-9850,1412592,11369546,,de
+5,=,Ashe - Stop The Wedding!,47,3,190045,-11177,1386840,6193055,,de
+6,-2,Ski Aggu - Verschwommen (w/ Ericson),83,2,185234,-16132,1383627,12209045,,de
+7,=,Sido - PROPAGANDA (w/ Fler),6,3,182078,-15972,1229780,1229780,,de
+8,=,Symba - Mama - Remix,18,3,177704,-6615,1338955,3027626,,de
+9,=,Season 25 - Shotta's.,29,5,171051,-3811,1197598,4172483,,de
+10,=,"HUGEL - Movin' To The Sun (w/ Imael Angel, Ultra NatÃ©)",155,2,165174,+111,1217959,28517177,,de
+11,=,Temper City - Self Aware,234,2,157446,+669,1124498,46178715,,de
+12,=,Sido - ISSA,76,1,151846,-1641,1014914,14893995,,de
+13,+2,"KAROL G - BbY WOW (w/ Judeline, rusowsky)",45,11,151278,+1120,1088212,5513404,,de
+14,+2,ADÃLA - Nicole Kidman,52,7,147126,+3091,1094315,7141575,,de
+15,-1,P!nk - Just Give Me a Reason (w/ Nate Ruess),76,9,144715,-7717,1075782,8538365,,de
+16,-3,The Neighbourhood - Sweater Weather,2083,6,140870,-11631,1035776,204613246,,de
+17,=,Jamie Miller - Babydoll,11,14,140718,-1349,1027650,1435840,,de
+18,+1,Shakira - Dai Dai (w/ Burna Boy),170,1,137480,+2664,1015892,45611900,,de
+19,+2,Katy Perry - The One That Got Away,218,7,132276,-844,999147,32250173,,de
+20,-2,Wir sind Helden - Von hier an blind,86,1,131247,-6696,1024540,17413527,,de
+21,-1,Justin Bieber - Beauty And A Beat (w/ Nicki Minaj),208,1,127356,-6369,1058780,51672857,,de
+22,=,"Ski Aggu - Verschwommen x Von hier an blind (w/ Wir sind Helden, Ericson, Philemon)",6,22,121352,-6693,596749,596749,,de
+23,+10,Linkin Park - In the End,3014,10,120760,+6720,819521,243608280,,de
+24,+6,HARDWICK - 7 MANN,62,1,119875,+4531,855849,11243563,,de
+25,+3,PAPKE - GAUNA SPORT,58,23,118411,+2211,862659,5617639,,de
+26,-1,LACAZETTE - ARL,6,4,117786,-1801,846586,846586,,de
+27,-4,The Goo Goo Dolls - Iris,735,14,115834,-9669,890266,75087421,,de
+28,+6,Wham! - Last Christmas,583,1,114638,+2219,465849,212156254,,de
+29,+2,Ravyn Lenae - Love Me Not,578,15,111488,-3650,802861,72893972,,de
+30,-3,Olivia Rodrigo - the cure,167,8,111475,-5977,793280,20284538,,de
+31,-2,"DJ Goja - Mi Chico - Official - Jason Derulo x Melody (w/ Jason Derulo, Melody)",76,10,111040,-4576,912524,8167049,,de
+32,=,Thekidszn - IMPULSIVE,24,26,108626,-5438,735532,2262268,,de
+33,+3,Faouzia - UNETHICAL,50,33,108608,-402,724652,4353039,,de
+34,-10,sombr - back to friends,591,3,107421,-15654,847657,94957523,,de
+35,+12,Tame Impala - Loser,94,9,105640,+6389,712576,12184026,,de
+36,+1,Taylor Swift - Patient Zero,41,1,105201,-869,757211,7944805,,de
+37,-2,makko - Inundauswendig (w/ The Chainsmokers),76,2,104890,-4872,738689,11653874,,de
+38,+4,Michael Jackson - Billie Jean,509,2,103458,+1895,832676,62224029,,de
+39,-1,sombr - My Body Isn't Ready,65,31,103421,-1365,711330,5744215,,de
+40,+3,Katy Perry - Legendary Lovers,189,27,102017,+714,721229,19283987,,de
+41,=,Mariah Carey - All I Want for Christmas Is You,568,1,102004,-115,431058,212056919,,de
+42,-3,Linkin Park - Numb,1501,10,101921,-2601,728889,141015586,,de
+43,+19,CEDDO - arm um mich,4,43,101906,+11439,333124,333124,,de
+44,+2,HUGEL - Jamaican (Bam Bam) (w/ SOLTO (FR)),215,7,101215,+1925,757177,28770046,,de
+45,-1,Linkin Park - The Emptiness Machine,789,1,100981,+815,720868,167286527,,de
+46,-20,Djo - End of Beginning,788,1,99299,-19609,823755,120406914,,de
+47,+8,Jazeek - AKON,586,1,97196,+2277,699418,126136961,,de
+48,-8,Zara Larsson - Lush Life,947,1,96877,-7170,785987,120941572,,de
+49,+5,Tove Lo - Talking Body,238,22,94656,-400,705858,12197048,,de
+50,+7,Rihanna - S&M,658,33,94505,+278,753447,58227121,,de
+51,+29,The Police - Every Breath You Take,725,7,94471,+12935,622302,73663984,,de
+52,-7,GENER8ION - STORM II (w/ Yung Lean),37,16,94010,-5492,709291,4396399,,de
+53,-3,BUNT. - TRIPPIN (w/ Mapei),164,10,93230,-3694,736164,18285085,,de
+54,+6,Summer Cem - MO' MONEY MO' HATERS (w/ Shirin David),83,1,93164,+2226,670948,16400736,,de
+55,-3,Sido - PUZZLETEIL (w/ Montez),27,1,92242,-4088,618324,2941438,,de
+56,=,Vance Joy - Riptide,1867,10,91103,-3420,686929,145707789,,de
+57,+6,Bebe Rexha - New Religion,146,22,90677,+899,648244,15017293,,de
+58,-5,Provinz - Walzer,613,15,90179,-4947,643416,65906041,,de
+59,+22,Rihanna - Don't Stop The Music,484,34,89197,+7820,642442,42692850,,de
+60,+28,Pashanim - Mittelmeer,891,1,88476,+9914,449214,137658573,,de
+61,-12,Dominic Fike - Babydoll,277,1,88306,-8886,681927,52800496,,de
+62,+7,Summer Cem - KILLY MANJARO (w/ BILLA JOE),167,1,87753,+55,635725,39438080,,de
+63,+11,Evanescence - Bring Me To Life,365,44,87591,+2872,658219,28288629,,de
+64,+4,Michael Jackson - Beat It,232,3,87018,-1730,707848,32151984,,de
+65,+10,LENNSKO - panzerknacker.wav,207,15,86816,+3413,614129,23135542,,de
+66,+4,Gigi Perez - Sailor Song,776,5,86670,-767,614169,93216259,,de
+67,-8,Depeche Mode - Enjoy the Silence,361,42,86448,-5995,676260,29689823,,de
+68,-1,"Dimitri Vegas & Like Mike - Makina Time (w/ Marlon Hoffstadt, Dj Konik)",244,26,86150,-2652,673650,24347532,,de
+69,-8,Tom Odell - Another Love,2031,9,85977,-4745,623534,248606785,,de
+70,-19,Alex Warren - Ordinary,635,1,85513,-11072,679404,141272741,,de
+71,+1,TLC - No Scrubs,67,33,85441,-426,640104,5849844,,de
+72,-8,Shawn Mendes - Treat You Better,595,2,85118,-4576,630058,60508223,,de
+73,-15,LUM!X - Self Aware,158,33,84743,-8403,681619,15699264,,de
+74,-9,The Neighbourhood - Reflections,117,58,84201,-5323,587942,9036264,,de
+75,+4,Olivia Rodrigo - stupid song,145,3,83004,+1379,481311,14457852,,de
+76,+14,Rihanna - Only Girl (In The World),531,45,81939,+4506,639723,45003749,,de
+77,+15,Teddy Swims - Mr. Know It All,123,76,81909,+4647,552642,9447973,,de
+78,+19,"Timbaland - The Way I Are (w/ Keri Hilson, D.O.E.)",1276,38,81453,+4989,591024,104962118,,de
+79,+33,TOTO - Africa,1020,14,81160,+8782,563954,79668831,,de
+80,-9,Taylor Swift - The Fate of Ophelia,398,1,81059,-5784,636074,100580207,,de
+81,-33,NGEE - Ehre wem Ehre gebÃ¼hrt,6,35,80305,-17245,545997,545997,,de
+82,-16,Natasha Bedingfield - Pocketful of Sunshine,261,29,80085,-9290,663929,23519980,,de
+83,+13,The Neighbourhood - Softcore,638,23,79215,+2363,455020,51542381,,de
+84,+19,AK AUSSERKONTROLLE - Hin und Her,146,4,79141,+4217,535813,21107136,,de
+85,+14,Nirvana - Smells Like Teen Spirit - Remastered,601,51,78840,+2505,557898,46776806,,de
+86,+12,Santigold - Disparate Youth,81,77,78802,+2405,541017,5776069,,de
+87,-1,Samra - ASSALAMUALEIKUM (w/ Capital Bra),13,2,78788,-1221,665128,1701492,,de
+88,-11,Alyssa Grace - bloodstream,117,35,78669,-4190,487618,11075078,,de
+89,-7,Oasis - Wonderwall - Remastered,602,16,78589,-2508,602950,36418552,,de
+90,-14,Dardan - Niemals,40,7,78380,-4985,478503,3713659,,de
+91,+3,Sia - Snowman,318,4,77749,+577,313778,92549750,,de
+92,+1,"Macklemore & Ryan Lewis - Can't Hold Us (w/ Macklemore, Ryan Lewis, Ray Dalton)",1769,13,77483,+222,701146,184891322,,de
+93,+25,sombr - 12 to 12,465,8,76875,+5229,519067,55074814,,de
+94,+38,girl in red - we fell in love in october,93,45,76577,+8398,525398,6970445,,de
+95,+14,Cigarettes After Sex - Apocalypse,219,60,76309,+3049,440926,15969425,,de
+96,+35,Dave - Raindance (w/ Tems),345,3,76204,+7869,425470,50102798,,de
+97,-2,Kings of Leon - Sex on Fire,685,43,76110,-994,588826,59393249,,de
+98,+98,a-ha - Take on Me - 2015 Remaster,142,90,75691,+15304,421423,10085698,,de
+99,+89,Lichterkinder - Ich geh mit meiner Laterne,37,46,75612,+14520,136704,3104566,,de
+100,+5,Linkin Park - Faint,541,29,75518,+844,441009,46375536,,de
+101,+19,Malcolm Todd - Earrings,182,34,75064,+3822,439809,17211520,,de
+102,+34,Lichterkinder - Lichterkinder,36,43,74882,+7169,142595,2925167,,de
+103,-25,RAYE - WHERE IS MY HUSBAND!,412,2,74829,-7022,605842,72287630,,de
+104,-20,Shindy - 1von1 (w/ Jazeek),13,3,74820,-5710,632679,1568270,,de
+105,-18,Wir sind Helden - Nur ein Wort,588,32,74772,-4256,586271,54580414,,de
+106,-5,Linkin Park - Somewhere I Belong,347,55,74772,-1020,432116,26625466,,de
+107,-22,Lady Gaga - Paparazzi,95,71,74372,-5790,597580,6619241,,de
+108,+48,Sean Paul - (When You Gonna) Give It Up to Me (w/ Keyshia Cole),306,5,74315,+8576,495124,41140543,,de
+109,-7,Lord Huron - The Night We Met,1132,30,74104,-1625,450469,110196327,,de
+110,+7,Don Omar - Danza Kuduro (w/ Lucenzo),1362,13,73993,+2238,588358,126702998,,de
+111,+8,Lady Gaga - Just Dance (w/ Colby O'Donis),577,56,73771,+2323,593724,44856550,,de
+112,+1,Journey - Don't Stop Believin' (2022 Remaster),1022,13,73476,+1439,652804,106784682,,de
+113,-7,SIENNA SPIRO - Great Expectation,41,72,73342,-844,450830,3074596,,de
+114,-31,t.A.T.u. - All The Things She Said,285,39,73157,-7408,563181,21602099,,de
+115,-5,Radiohead - Creep,293,101,73007,-43,519000,20649414,,de
+116,+50,Pashanim - Shabab(e)s im VIP (w/ Ceren),548,1,72797,+9008,281579,96403068,,de
+117,+24,Haftbefehl - 069,363,2,72728,+5296,497060,40020075,,de
+118,+33,Miguel - Sure Thing,166,27,72663,+6163,267666,15099695,,de
+119,-30,Green Day - Boulevard of Broken Dreams,207,3,72590,-5843,542137,21693583,,de
+120,-29,"Pitbull - Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",865,31,72415,-4939,592836,76525823,,de
+121,+1,Nickelback - How You Remind Me,592,64,72368,+1928,501633,45441853,,de
+122,+4,The Cranberries - Zombie - 2025 Remastered,73,36,72332,+3118,599604,5521394,,de
+123,-16,Olivia Dean - Man I Need,424,7,72237,-1623,532683,52340925,,de
+124,+4,"Mr. Polska - Spring (w/ Ski Aggu, Natte Visstick)",174,21,71914,+3117,505525,15985416,,de
+125,+5,Coldplay - Viva La Vida,1135,38,71906,+3505,504731,91493498,,de
+126,-22,Disco Lines - No Broke Boys (w/ Tinashe),482,1,71356,-3534,553307,73549764,,de
+127,-11,Bibi und Tina - Bibi und Tina Lied,755,34,71293,-593,370237,54387200,,de
+128,-7,Berq - Rote Flaggen,562,2,71184,+532,426083,72004302,,de
+129,-5,Jennifer Lopez - On The Floor (w/ Pitbull),176,9,70509,+689,558777,19919650,,de
+130,-22,LACAZETTE - LID,376,1,70248,-3570,527206,56143924,,de
+131,+7,Nelly Furtado - Promiscuous (w/ Timbaland),455,57,70181,+2731,543574,34546191,,de
+132,-21,Empire Of The Sun - We Are The People,502,40,70144,-2878,426744,44639098,,de
+133,-6,BLOK3 - Sebebi Yar,108,83,69693,+822,330683,7665022,,de
+134,+16,"Justice - Flower In A Hurricane (w/ Tame Impala, SZA, Grand Theft Auto VI, King Gizzard & The Lizard Wizard)",12,33,69217,+2711,283320,970303,,de
+135,-12,Natasha Bedingfield - Unwritten,1024,1,69128,-937,612620,147263657,,de
+136,+46,THIZZY52 - BALOTELLI,144,4,69024,+6903,341277,16157279,,de
+137,RE,The Chainsmokers - Don't Let Me Down (w/ Daya),587,2,68839,,68839,64527759,,de
+138,+5,Tate McRae - Just Keep Watching (From F1Â® The Movie) (w/ F1 The Album),369,8,68681,+1379,492523,40586557,,de
+139,RE,"Marteria - Lila Wolken (w/ Yasha, Miss Platnum)",57,139,68490,,68490,2588736,,de
+140,-26,Harry Styles - Sign of the Times,276,36,67858,-4058,426753,19637001,,de
+141,-2,Capital Bra - Neymar (w/ Ufo361),794,1,67843,+399,507264,98513663,,de
+142,+38,Bruno Mars - Locked out of Heaven,354,15,67635,+5340,388762,29049481,,de
+143,-8,ANOTR - Talk To You (ft. 54 Ultra) (w/ 54 Ultra),79,14,67278,-455,509652,7198905,,de
+144,+10,Coldplay - Yellow,348,71,67238,+1270,330980,24985283,,de
+145,-72,Tate McRae - Sports car,277,23,67199,-18072,633973,26778404,,de
+146,-1,Lady Gaga - Poker Face,530,49,67100,-84,547379,39965351,,de
+147,+47,Tame Impala - Dracula - JENNIE Remix (w/ JENNIE),195,7,66972,+6232,486118,23536394,,de
+148,+5,Bronski Beat - Smalltown Boy,77,68,66951,+852,502757,5956802,,de
+149,+12,THIZZY52 - BLOCKKIDS,204,28,66795,+2086,411383,16849391,,de
+150,-6,Bibi Blocksberg - Bibi Blocksberg Lied,271,59,66563,-673,278977,16674517,,de
+151,-22,Tove Lo - Habits (Stay High),343,27,66507,-1964,497349,16056837,,de
+152,RE,David Guetta - Titanium (w/ Sia),171,83,66129,,66129,11563795,,de
+153,-20,Pashanim - Augenblick,109,1,66006,-1996,356986,14557520,,de
+154,-7,Calvin Harris - Outside (w/ Ellie Goulding),682,1,65942,-828,488895,44827104,,de
+155,+22,Mac Miller - Cinderella (w/ Ty Dolla $ign),145,45,65867,+3191,257739,12304750,,de
+156,+20,MiyaGi & Endspiel - I Got Love (w/ Rem Digga),15,156,65808,+3028,190313,927610,,de
+157,-57,Shakira - Hips Don't Lie (w/ Wyclef Jean),524,14,65397,-10445,619212,49314275,,de
+158,-21,Wheatus - Teenage Dirtbag,643,47,65265,-2420,511903,51330147,,de
+159,+31,Mazzy Star - Fade Into You,45,73,65163,+4242,248475,2989273,,de
+160,+3,Ariana Grande - Santa Tell Me,489,4,65096,+980,272288,124846619,,de
+161,-36,"HUNTR/X - Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",500,1,65081,-4705,531911,103690060,,de
+162,-47,Sean Paul - She Doesn't Mind,472,45,64788,-7113,532722,37905391,,de
+163,+20,sombr - Homewrecker,202,19,64772,+2705,254972,18114928,,de
+164,RE,F3miii - NOBLE,81,54,64761,,64761,6400639,,de
+165,-5,Theodora - Habiba,21,65,64435,-382,405470,1635828,,de
+166,+18,Linkin Park - What I've Done,288,38,64322,+2391,249004,20714215,,de
+167,-18,KATSEYE - Animal,103,62,64171,-2419,512722,7740442,,de
+168,RE,Twenty One Pilots - Stressed Out,556,2,64103,,64103,53376698,,de
+169,+23,The Bausa - Magnetic,158,23,63585,+2768,343105,14195797,,de
+170,RE,WALK THE MOON - Shut Up and Dance,1055,14,63574,,63574,64181734,,de
+171,-31,Lichterkinder - Der Herbst ist da,54,45,63571,-3870,259375,4945861,,de
+172,-20,JAÅ¸-Z - Empire State Of Mind (w/ Alicia Keys),153,93,63505,-2641,497930,10787340,,de
+173,-9,BLOK3 - KayÄ±p Kalp,77,17,63404,-590,259712,6310586,,de
+174,RE,"USHER - Yeah! (w/ Lil Jon, Ludacris)",657,8,63349,,236081,51159681,,de
+175,+22,OneRepublic - Counting Stars,1029,78,63256,+2876,306617,63915891,,de
+176,+19,Don Toliver - Secondhand (w/ Rema),34,32,63191,+2595,189519,2883099,,de
+177,+14,Rihanna - Disturbia,35,12,63090,+2179,631136,2797400,,de
+178,+20,Shakin' Stevens - Merry Christmas Everyone,401,2,63061,+2733,194510,132689832,,de
+179,-11,Imogen Heap - The Happy Song,18,144,63037,-551,314226,1073870,,de
+180,-22,Pashanim - Ms. Jackson,1157,1,62825,-2309,396369,167942821,,de
+181,-12,HIM - Join Me - Razorblade Mix,7,166,62807,-756,190104,430843,,de
+182,+5,HWZ - Zittern,74,42,62742,+1575,344579,5798565,,de
+183,-18,Levant - Ruf mich nicht mehr an,36,47,62728,-1139,343166,2991770,,de
+184,-25,Lady Gaga - Die With A Smile (w/ Bruno Mars),669,3,62698,-2130,318885,109768669,,de
+185,-39,Kesha - TiK ToK,431,59,62693,-4294,526451,32577429,,de
+186,+7,Lana Del Rey - Summertime Sadness,442,89,62469,+1668,306232,30516484,,de
+187,-9,Katy Perry - Hot N Cold,242,97,62357,-311,488344,17826147,,de
+188,-31,AYLIVA - Wie?,381,1,62344,-2977,350211,55963785,,de
+189,-16,Stromae - Alors on danse,83,81,62023,-951,478925,5834062,,de
+190,-56,Prince - Purple Rain,117,36,61963,-5998,484814,8657681,,de
+191,-29,Nelly Furtado - Maneater,152,34,61877,-2273,591709,10864229,,de
+192,RE,The Weeknd - Starboy (w/ Daft Punk),721,2,61671,,61671,70385287,,de
+193,-7,Rihanna - Umbrella (w/ JAÅ¸-Z),119,75,61647,+194,405515,8371309,,de
+194,RE,Dominic Fike - White Keys,211,2,61267,,61267,30800732,,de
+195,-47,bÃ´a - Duvet,33,89,60797,-5894,321547,2164853,,de
+196,RE,Rihanna - We Found Love (w/ Calvin Harris),315,16,60736,,222510,23492054,,de
+197,RE,Katy Perry - I Kissed A Girl,3,183,60095,,191546,191546,,de
+198,-13,Sido - WOKE,19,2,59943,-1959,121845,1785637,,de
+199,-32,Billie Eilish - BIRDS OF A FEATHER,752,5,59756,-4001,308174,119453666,,de
+200,RE,G-Eazy - Him & I (w/ Halsey),226,3,59514,,59514,32137655,,de
