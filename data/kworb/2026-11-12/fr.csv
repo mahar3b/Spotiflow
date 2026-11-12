@@ -1,0 +1,201 @@
+pos,trend,artist_title,days,peak,streams,streams_change,seven_day,total,track_id,region
+1,=,Vacra - Fille Ã  Papa (w/ La Rvfleuze),54,1,398526,+31547,2831659,29457648,,fr
+2,=,Tiakola - MÃ©lo DÃ©calÃ©,152,2,294844,+29183,2140063,36441688,,fr
+3,=,Le Crime - Bodycount (w/ TK),43,3,280098,+20652,1945900,8300946,,fr
+4,=,Mauvais djo - 4,37,4,251404,+23692,1765526,6622196,,fr
+5,+1,Mauvais djo - 12,30,5,241076,+22895,1642704,4504293,,fr
+6,-1,RnBoi - J'assume,26,3,230496,+8142,1731481,6793974,,fr
+7,+2,Aya Nakamura - Sexy Nana (w/ La Rvfleuze),187,1,213560,+30521,1518528,66379269,,fr
+8,=,Tiakola - Jet Lag (w/ Jorja Smith),47,8,212668,+11848,1409101,7071660,,fr
+9,-2,Cherry Pie - BIR HAKEIM,49,6,212259,+11309,1479127,9037979,,fr
+10,=,"Ronisia - Cuenta (w/ Meryl, Shay)",40,6,185251,+15550,1323669,8508295,,fr
+11,+1,Mauvais djo - Wagyu,96,9,180939,+14722,1293980,17840762,,fr
+12,-1,Theodora - Habiba,38,3,179308,+11789,1299022,8403065,,fr
+13,+4,Mauvais djo - Maladie,217,3,174147,+22811,1246230,53866456,,fr
+14,-1,Jok'air - NoumÃ©a (w/ Linema),40,13,171284,+8554,1186083,5472102,,fr
+15,-1,Tiakola - La Nocturne (w/ Theodora),47,2,170807,+8914,1229662,12205146,,fr
+16,-1,Ninho - La vie qu'on mÃ¨ne,2791,2,168643,+13407,1080223,298645544,,fr
+17,-1,Bello&Dallas - SÃ©minaire,156,4,166879,+12652,1192617,32001958,,fr
+18,+5,Mauvais djo - PilÃ©,271,1,165099,+21127,1235323,70815790,,fr
+19,=,Timal - Sicario,138,1,164256,+14909,1212696,28640629,,fr
+20,-2,Aya Nakamura - La pÃ©tasse,163,6,161931,+12085,1207446,27380953,,fr
+21,-1,"KAROL G - BbY WOW (w/ Judeline, rusowsky)",40,20,158311,+11228,1020551,4431365,,fr
+22,+6,Bouss - Cote Ã  la hausse,95,13,156904,+21845,1021352,13650817,,fr
+23,-2,Nono La Grinta - LOVE YOU,394,2,155854,+10736,1108533,103631627,,fr
+24,=,disiz - melodrama (w/ Theodora),411,1,154787,+13704,1086710,165642891,,fr
+25,=,Leto - Pineapple,215,2,154683,+15130,1109879,55628523,,fr
+26,=,PLK - Pocahontas,243,1,153235,+14190,1130776,75674471,,fr
+27,-5,TeddyBear - Chaussures Roses,52,20,152373,+7724,1099301,5203516,,fr
+28,+5,Lagui - Olivia Valere,122,20,145303,+20934,986469,14926899,,fr
+29,-2,L2B - CYBERTESLA,33,12,139586,+2887,988482,5275940,,fr
+30,=,La Rvfleuze - Argent Sale - A COLORS SHOW (w/ COLORS),268,4,137711,+9052,936584,42620638,,fr
+31,=,GIMS - VIVE LA MONNAIE (w/ Mauvais djo),117,13,136740,+11633,998326,17966970,,fr
+32,+2,Bamby - Pas Jalouse (w/ Kerchak),341,20,136355,+13746,921451,31327338,,fr
+33,-4,"Werenoi - Jalouse (w/ SDM, Vacra)",272,8,134796,+935,982937,32611223,,fr
+34,+4,Nono La Grinta - Paris,587,1,131886,+11369,957875,120101425,,fr
+35,+4,ESTL - Te rencontrer encore,54,35,131448,+12008,898135,5216581,,fr
+36,=,Le Crime - Amiri (w/ Gambi),28,36,128602,+7631,805659,2335658,,fr
+37,-2,SDM - CARTIER SANTOS,775,1,128152,+5827,853433,146847888,,fr
+38,+2,AdÃ¨le Castillon - ÃtÃ© avec toi,107,25,127604,+8351,903994,11662093,,fr
+39,-7,Damso - Î. Signaler,1271,5,127153,+2362,924582,82929325,,fr
+40,+5,Shakira - Dai Dai (w/ Burna Boy),173,2,122655,+11334,917426,38401220,,fr
+41,+1,Bello&Dallas - Belvedere,81,14,121312,+8664,884311,10395837,,fr
+42,-5,Tate McRae - Housewife,26,19,121173,+567,840897,3460936,,fr
+43,+1,Zed - Wetin Day,13,20,118975,+7546,894167,1676395,,fr
+44,+4,Werenoi - Poney,579,4,116302,+10529,726490,71529909,,fr
+45,+16,Meryl - Coco Chanel (w/ Eva),348,16,114188,+18596,750970,44751331,,fr
+46,+6,Gambi - RENÃ CAOVILLA,222,4,113724,+12157,826061,51904862,,fr
+47,=,Ninho - Lettre Ã  une femme,2193,1,113658,+7017,750227,180431182,,fr
+48,+7,Rambo goyard - B.M.S (by my side),306,2,113546,+14554,757426,66021172,,fr
+49,-3,Werenoi - Chemin d'or,1322,4,112463,+1882,796946,148717379,,fr
+50,+6,Werenoi - PÃ©tunias,768,2,112395,+13783,730101,106499842,,fr
+51,+3,Djaksparo - Pangor (Swalalala),69,30,111547,+12305,771493,8012503,,fr
+52,-9,Tame Impala - Loser,100,20,111490,-457,750162,11399926,,fr
+53,-12,Temper City - Self Aware,196,17,111474,-3439,789549,25302011,,fr
+54,-4,Ninho - Vrais,721,14,110812,+7244,741866,78553437,,fr
+55,+5,La Rvfleuze - Serrure #5,453,5,108756,+12921,760074,62452092,,fr
+56,+14,Jul - Parfum quartier,429,11,107904,+15612,741834,45583345,,fr
+57,+9,Werenoi - Tu connais,1129,7,107893,+14442,729368,136305413,,fr
+58,-9,Bigflo & Oli - Picasso,180,44,107791,+3159,766575,15891295,,fr
+59,-2,HUGEL - Jamaican (Bam Bam) (w/ SOLTO (FR)),250,8,107739,+10197,774420,39689787,,fr
+60,+4,"Niska - Allo Doudou (w/ litleboy lsbeats767, Miimii KDS)",78,39,107207,+13086,758840,7527868,,fr
+61,-8,Ninho - Putana,2081,3,107197,+5732,702654,168130341,,fr
+62,-3,La Rvfleuze - PARLU,229,4,106898,+10340,729009,33870142,,fr
+63,-12,Guy2Bezbar - Je pense Ã  toi,221,19,105922,+2400,774518,22515601,,fr
+64,-6,Lagui - DÃ©gun,35,20,105747,+8500,756398,4532604,,fr
+65,-2,Ninho - Un Poco,992,6,105576,+11337,715641,80076262,,fr
+66,+3,"Franglish - Uber (w/ KeBlack, Mauvais djo)",84,23,102763,+9829,732424,9333962,,fr
+67,+1,kulturr - mÃ©li-mÃ©lo,239,7,102334,+9009,755547,42217691,,fr
+68,+8,Bouss - Biff pas d'love,428,4,102173,+12481,664841,58387400,,fr
+69,+4,"HUGEL - Movin' To The Sun (w/ Imael Angel, Ultra NatÃ©)",130,31,100783,+9820,715020,13348862,,fr
+70,+5,Ninho - Mood,130,10,99872,+9821,679085,13025179,,fr
+71,+18,Ninho - Zipette,1176,3,99315,+15696,602486,88010501,,fr
+72,=,Oria - SoirÃ©e mondaine,226,40,98671,+7618,705388,22587122,,fr
+73,-6,Ninho - Dis-moi que tu m'aimes,946,56,98501,+5114,652682,54559386,,fr
+74,+18,Rim'K - Air Max (w/ Ninho),1009,1,98344,+15051,625767,83224206,,fr
+75,+13,Lagui - MaracanÃ£,166,58,98321,+13381,686760,13264751,,fr
+76,-11,Tame Impala - Dracula - JENNIE Remix (w/ JENNIE),252,17,97856,+4133,678387,32526118,,fr
+77,+4,La Rvfleuze - PROMENADE (w/ Koba LaD),224,4,95180,+8610,655967,22163219,,fr
+78,+1,Teddy Swims - Mr. Know It All,135,72,94811,+6174,643902,10869222,,fr
+79,+4,RnBoi - MON BÃBÃ,383,1,94383,+8264,674330,113898748,,fr
+80,+21,Lagui - Gros cave (w/ Niaks),84,57,93537,+13985,618144,7113287,,fr
+81,+21,"Justice - Flower In A Hurricane (w/ Tame Impala, SZA, Grand Theft Auto VI, King Gizzard & The Lizard Wizard)",19,44,93374,+14578,523639,1397932,,fr
+82,+17,L2B - Dedans,5,82,92426,+11821,368637,368637,,fr
+83,-12,Vianney - D'or et d'Ã©tain,6,61,92032,+843,489675,587403,,fr
+84,-6,Bouss - DiffÃ©rent,25,52,91948,+2844,630948,2314103,,fr
+85,+2,PLK - Tu dors ?,243,9,91844,+6761,636746,30879203,,fr
+86,+4,Manon Lisa - Le Petit PÃªcheur,140,45,91031,+7540,670936,12378609,,fr
+87,+7,Damso - Î. Macarena,2760,1,91016,+8883,613374,196940981,,fr
+88,-8,TLC - No Scrubs,73,64,90986,+3222,666801,5399993,,fr
+89,+14,Jok'air - Bonbon Ã  la menthe (w/ Mallaury),538,41,90938,+12417,619925,42834319,,fr
+90,-4,BEN plg - Histoire sans fin (w/ MATHILDE),60,15,90147,+4954,541957,4952853,,fr
+91,+2,NaÃ¯ka - ONE TRACK MIND,259,24,89869,+7466,620377,27023964,,fr
+92,-8,Aya Nakamura - La machine,184,19,89736,+3716,617831,10202441,,fr
+93,+12,Ninho - Elle m'a eu,384,5,89307,+11621,563892,23283609,,fr
+94,-32,Djadja & Dinaz - J'fais mes affaires,1445,16,88708,-5638,689647,82512730,,fr
+95,+1,SaÃ¯f - Le taf du loup,102,57,88596,+7123,639977,8700090,,fr
+96,-19,SCH - Professionnels (w/ SDM),20,3,88494,-944,692665,2988712,,fr
+97,+1,Tayc - RÃ©anymÃ© (w/ Anyme023),138,14,87861,+7031,622613,15151814,,fr
+98,+26,Werenoi - Jamal,484,20,87701,+17205,591824,50036593,,fr
+99,-25,L2B - Chanel,6,44,87057,-3072,542850,542850,,fr
+100,-15,Ninho - Goutte d'eau,1028,3,86840,+1058,472001,81345462,,fr
+101,+9,GIMS - PARISIENNE (w/ La Mano 1.9),467,1,86355,+11334,619844,122596005,,fr
+102,-5,Eva - Sur la piste,75,72,86201,+5002,623198,5383739,,fr
+103,+3,"TRIANGLE DES BERMUDES - Ã l'aise (w/ L2B, MC YOSHI, Mauvais djo, Kokosvoice)",219,9,85358,+8674,608261,34032883,,fr
+104,=,Ninho - BRACELET (w/ La Rvfleuze),35,10,84717,+6660,565856,3962875,,fr
+105,-5,"DJ Goja - Mi Chico - Official - Jason Derulo x Melody (w/ Jason Derulo, Melody)",103,39,84514,+4630,607492,9780177,,fr
+106,+26,Timar - EXPLICIT 69,70,70,83273,+14581,537748,5105356,,fr
+107,-16,Bouss - Printemps,367,52,83215,-180,529668,27290233,,fr
+108,-26,Ninho - LES DIAMANTS DE BOKASSA (w/ Tiakola),306,3,82956,-3530,609141,43026415,,fr
+109,-14,PNL - Menace,235,8,81537,+61,585063,23810261,,fr
+110,+6,Mosimann - Soon (w/ GaÃ«tan Roussel),40,90,81504,+9167,548975,2866870,,fr
+111,+2,Tove Lo - des fleurs x stromae (w/ Stromae),97,88,80507,+6289,547997,7083961,,fr
+112,+2,Tiakola - Mode de vie,47,17,79987,+6182,568214,4670688,,fr
+113,+9,Jamie Miller - Babydoll,13,113,79896,+9185,471729,855764,,fr
+114,-6,Damso - Pa Pa Paw (w/ SARAH SEY),530,5,78827,+3142,553879,66919910,,fr
+115,-6,PNL - La misÃ¨re est si belle,1376,14,78646,+3602,533586,93309293,,fr
+116,+3,Aya Nakamura - RÃ©ponds,44,101,78347,+7099,548507,3052277,,fr
+117,+26,Meryl - Shatta Confessions (w/ N'Ken),468,22,77321,+11264,528044,44392174,,fr
+118,+13,Franglish - GÃ©nÃ©ration impolie (w/ KeBlack),390,3,77312,+8066,546883,72447571,,fr
+119,-12,GENER8ION - STORM II (w/ Yung Lean),44,65,76765,+677,538807,3763423,,fr
+120,-8,ADÃLA - Ain't In LA,44,112,76732,+2265,514456,2899912,,fr
+121,+2,PLK - Sex Model (w/ Theodora),264,3,75912,+5401,543902,41240585,,fr
+122,+12,La Mano 1.9 - MMA (w/ Konieur),11,116,75787,+7609,515645,771225,,fr
+123,-5,Tiakola - CÅur De Pirate,47,9,75555,+3398,555605,5378830,,fr
+124,+9,Bad Bunny - NUEVAYoL,589,5,75457,+7172,532788,79212192,,fr
+125,+2,"TRIANGLE DES BERMUDES - Qu'on s'attache (w/ MC YOSHI, Mauvais djo, Kokosvoice)",41,36,75246,+5084,582219,4228611,,fr
+126,-5,Ashe - Stop The Wedding!,15,121,74863,+3907,461223,962827,,fr
+127,-12,Niska - Adriano,432,2,74853,+2301,507559,63251533,,fr
+128,+9,Bello&Dallas - Arena de Cuba,187,23,74658,+7207,532633,18328157,,fr
+129,+26,"TRIANGLE DES BERMUDES - Mopao aye (w/ MC YOSHI, Mauvais djo, Kokosvoice)",163,25,74190,+11391,503572,18470568,,fr
+130,+8,TK - Coachella (w/ GIMS),89,22,73763,+6512,565219,9640006,,fr
+131,+13,Dadju - CompliquÃ©,622,6,73669,+7912,506149,51575812,,fr
+132,-12,ADÃLA - Nicole Kidman,47,90,73435,+2393,525317,3500457,,fr
+133,-4,Ninho - Jefe,817,1,73232,+3551,399361,112713324,,fr
+134,-17,The Neighbourhood - Sweater Weather,732,24,73155,+971,513858,50999348,,fr
+135,+13,R2 - RUINART,512,1,73079,+8154,513694,113061420,,fr
+136,-25,Anyme023 - NumÃ©ro,5,43,72843,-1874,432411,432411,,fr
+137,+3,Ninho - Malcolm,24,112,72413,+5533,257507,597325,,fr
+138,-10,Ravyn Lenae - Love Me Not,545,31,72395,+2391,516914,56133159,,fr
+139,+19,Lagui - CIRO,57,129,72206,+10513,480721,3707191,,fr
+140,-14,Tom Odell - Another Love,2085,15,72195,+1937,503113,157358823,,fr
+141,=,SaÃ¯f - Malade,283,93,71920,+5537,503538,19434639,,fr
+142,-3,Leto - Lululemon,56,16,71747,+4724,452310,5126185,,fr
+143,+8,Ninho - Maman ne le sait pas (w/ Niska),1143,1,71512,+8094,328298,98161302,,fr
+144,-2,PLK - Nouvelles,1216,3,71456,+5394,490242,122796793,,fr
+145,-20,TeddyBear - Le Plus Beau,47,68,71203,+902,548796,3566187,,fr
+146,+15,La Rvfleuze - P.I.B,495,20,70507,+9072,463931,44423549,,fr
+147,-12,Vegedream - Tu m'as menti,87,42,70497,+2760,520686,7710484,,fr
+148,-3,Ariana Grande - hate that i made you love me,165,14,70245,+4531,486933,15759991,,fr
+149,+5,OG Plugging - TERRIBLE MAN,65,77,69857,+6842,492506,4799774,,fr
+150,+17,Heuss L'enfoirÃ© - Maharaja,35,95,69833,+9931,464894,2508887,,fr
+151,+1,RnBoi - ELLE VOULAIT,229,1,69679,+6359,505946,44897767,,fr
+152,-16,Season 25 - Shotta's.,2,136,69438,+1969,136907,136907,,fr
+153,+10,Niska - Chasse Ã  l'homme,479,9,69326,+8079,466869,27442841,,fr
+154,RE,Miimii KDS - SÃ© Miimii (w/ DJ SKYCEE),90,89,68988,,406419,5935941,,fr
+155,-6,Ruthee - Zoblazo,9,149,68604,+4210,457494,571420,,fr
+156,+30,Ninho - M.I.L.S 2.0,351,1,68489,+11870,125108,22842350,,fr
+157,+8,Jungeli - Juste un peu (w/ EMMA),114,115,68410,+7997,468743,7420185,,fr
+158,+13,"TRIANGLE DES BERMUDES - Balek (w/ Aya Nakamura, MC YOSHI, Mauvais djo, Kokosvoice)",218,19,68104,+9046,479763,27683657,,fr
+159,+1,Michael Jackson - Billie Jean,286,4,67831,+6315,500050,32171065,,fr
+160,+12,Hanoa - BLACK BLEU (w/ LGZ_03),7,157,67776,+8751,446607,446607,,fr
+161,-15,P!nk - Just Give Me a Reason (w/ Nate Ruess),32,123,67647,+2624,467041,2075140,,fr
+162,-3,Vance Joy - Riptide,1502,22,67394,+5770,463674,72818397,,fr
+163,-1,ANOTR - Talk To You (ft. 54 Ultra) (w/ 54 Ultra),85,27,67370,+6047,465735,7786807,,fr
+164,-8,Bouss - J'bÃ©ou,46,102,67159,+4808,319412,2921696,,fr
+165,+17,Werenoi - Pyramide (w/ Damso),917,1,66346,+8999,376063,90694043,,fr
+166,+2,Werenoi - Solitaire,1245,13,65972,+6201,438275,121424821,,fr
+167,RE,Leto - Macaroni (w/ Ninho),464,2,65886,,65886,42513721,,fr
+168,-11,Jul - J'oublie tout,1224,21,65790,+3989,477105,91248726,,fr
+169,-19,Dominic Fike - Babydoll,283,15,65721,+1626,476816,37133685,,fr
+170,+11,Werenoi - Laboratoire,1279,7,65325,+7758,436400,159116315,,fr
+171,-41,Eddy de Pretto - sous influence,17,117,64875,-4744,484531,1120611,,fr
+172,+13,Theodora - ZOU BISOU (w/ Jul),526,6,64364,+7694,439863,76252330,,fr
+173,-4,Damso - Î. Dieu ne ment jamais,1369,6,64332,+4700,438745,104024564,,fr
+174,+9,Bleu Soleil - Soleil Bleu (w/ LUIZA),512,2,64065,+6794,457865,91529265,,fr
+175,RE,La Rvfleuze - ARGENT SALE,56,75,63743,,311874,3845229,,fr
+176,RE,Yaro - Bucci Night (w/ Ninho),220,13,63578,,63578,13334254,,fr
+177,+18,SDM - POUR ELLE,579,1,62994,+7410,175083,87839669,,fr
+178,+12,Lawskie - MAKA SHIT,70,38,62728,+6514,441023,5169060,,fr
+179,+14,Soolking - Tour du monde (w/ L2B),462,5,62665,+6832,435665,69098694,,fr
+180,+8,Hamza - KYKY2BONDY,557,1,62389,+5956,436879,101522227,,fr
+181,-7,PNL - Hasta la vista,652,6,62150,+3558,297717,45519533,,fr
+182,+10,Josas - Deliciosa,57,105,61973,+6042,381394,3933220,,fr
+183,-36,"Jok'air - Nos souvenirs (w/ Chilla, Yseult)",338,52,61931,-3091,458935,26270219,,fr
+184,=,Djo - End of Beginning,434,7,61914,+5162,289007,50260847,,fr
+185,-8,Vacra - Monte-Carlo,8,177,61616,+3216,238295,488633,,fr
+186,RE,Lagui - La donneuse (w/ Gazo),8,87,61433,,61433,553018,,fr
+187,-14,Booba - Dolce Camara (w/ SDM),1006,2,61273,+2652,427351,137897323,,fr
+188,RE,Kanay - Flex,68,80,61256,,375903,5054053,,fr
+189,+2,Alex Warren - Ordinary,583,10,61030,+4893,356896,81530645,,fr
+190,+4,Booba - 92i veyron,1017,9,60768,+4975,171421,54189457,,fr
+191,+6,Booba - Scarface,188,69,60756,+5272,171900,12065841,,fr
+192,+8,"Timar - FRENCH CONNEXION, Pt.3",28,61,60703,+5297,232701,2087769,,fr
+193,-4,"Werenoi - Triple V (w/ Damso, Ninho)",349,1,60686,+4412,116960,36980717,,fr
+194,-16,Bello&Dallas - ProhibÃ©,12,79,60107,+1712,381231,810159,,fr
+195,-20,Bouss - Nowhere 2,111,51,59857,+1421,304813,8906181,,fr
+196,RE,RnBoi - AVEC MOI (w/ Nono La Grinta),294,4,59806,,299213,52406995,,fr
+197,+1,The Police - Every Breath You Take,603,14,59616,+4154,172606,39804123,,fr
+198,-28,sombr - back to friends,474,52,59552,+84,291867,37245285,,fr
+199,-46,Djadja & Dinaz - DÃ©stabilisÃ©,219,12,59487,-3556,448605,9219433,,fr
+200,RE,RAYE - WHERE IS MY HUSBAND!,415,12,59334,,238387,53259340,,fr
