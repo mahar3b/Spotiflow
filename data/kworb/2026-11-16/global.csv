@@ -1,0 +1,201 @@
+pos,trend,artist_title,days,peak,streams,streams_change,seven_day,total,track_id,region
+1,=,"KAROL G - BbY WOW (w/ Judeline, rusowsky)",95,1,5006094,+52529,33104895,455092013,,global
+2,=,Ashe - Stop The Wedding!,68,2,4340617,-157378,29878916,187009864,,global
+3,=,Tate McRae - Housewife,30,1,3742893,-161497,28707369,162122142,,global
+4,=,ADÃLA - Nicole Kidman,72,2,3217738,-154452,24149339,266103563,,global
+5,=,Olivia Rodrigo - the cure,177,1,3121199,-152408,22996729,596755144,,global
+6,=,ADÃLA - Ain't In LA,109,2,3014365,-147065,21856569,307068757,,global
+7,=,Jamie Miller - Babydoll,42,7,2985649,-102146,19226344,82527361,,global
+8,+5,Wham! - Last Christmas,577,1,2938668,+451969,16867453,1830406084,,global
+9,+12,Mariah Carey - All I Want for Christmas Is You,636,1,2840963,+564343,15313055,2150181595,,global
+10,=,Justin Bieber - Beauty And A Beat (w/ Nicki Minaj),261,1,2577837,+30417,17336056,983527377,,global
+11,-3,Malcolm Todd - Earrings,230,1,2571010,-52341,17706232,720448028,,global
+12,+10,Felipe e Rodrigo - PÃ³s - Ao Vivo,37,7,2539638,+263490,15192104,84760796,,global
+13,-4,sombr - back to friends,607,1,2516107,-83571,18163166,2309988032,,global
+14,=,Fuerza Regida - Suzuki (from GTAVI: The Album) (w/ Grand Theft Auto VI),27,14,2505659,+36488,15710306,53736745,,global
+15,-4,P!nk - Just Give Me a Reason (w/ Nate Ruess),172,11,2486272,-60801,16620814,196398215,,global
+16,-4,Katy Perry - The One That Got Away,241,3,2460205,-39932,17213808,677727451,,global
+17,-2,Lady Gaga - Die With A Smile (w/ Bruno Mars),821,1,2370367,-81449,16874791,4084889697,,global
+18,=,Olivia Dean - Man I Need,452,2,2347879,-59026,15948370,1540343333,,global
+19,-2,The Neighbourhood - Sweater Weather,2358,10,2345301,-80514,16736642,4394996629,,global
+20,-4,Temper City - Self Aware,223,5,2326676,-113607,15210056,596574547,,global
+21,-1,Olivia Rodrigo - stupid song,156,1,2320105,-20470,16863232,475908497,,global
+22,-3,The Goo Goo Dolls - Iris,1157,6,2244620,-146334,17809484,2491743386,,global
+23,+1,Ella Langley - Choosin' Texas,318,8,2216376,-16267,14910517,763836480,,global
+24,+3,Ravyn Lenae - Love Me Not,606,5,2139017,-24148,14920784,1519750041,,global
+25,-2,SIENNA SPIRO - Great Expectation,130,12,2129738,-116633,15373225,248154549,,global
+26,-1,Djo - End of Beginning,1002,1,2101821,-101215,14427635,2964401569,,global
+27,+1,BTS - SWIM,240,1,2082334,-53506,15073320,1007990334,,global
+28,-2,Tame Impala - Loser,107,1,2047082,-135832,14610918,288310564,,global
+29,=,The Killers - Mr. Brightside,1920,22,2038257,-65884,14450829,2125374377,,global
+30,=,Dominic Fike - Babydoll,357,1,2028455,-13426,13801429,1145198164,,global
+31,+9,Michael Jackson - Billie Jean,601,1,2008095,+105551,13315009,1277410772,,global
+32,-1,Alex Warren - Ordinary,646,1,2003083,-10259,12897704,2258495002,,global
+33,+24,JoÃ£o Gustavo e Murilo - Postinho de Gasolina (w/ Grelo),50,25,1972559,+290396,10990029,81342934,,global
+34,+2,Arctic Monkeys - I Wanna Be Yours,1592,11,1967797,+4357,13198443,3563923462,,global
+35,+13,Shakira - Dai Dai (w/ Burna Boy),178,1,1960090,+193621,12119170,555570044,,global
+36,-1,Shawn Mendes - Treat You Better,807,4,1943698,-20409,13834095,1148744163,,global
+37,-5,Gigi Perez - Sailor Song,819,5,1939807,-68680,14057612,2237065504,,global
+38,-5,The Police - Every Breath You Take,1857,6,1930849,-68773,14112479,2819661227,,global
+39,=,"The Weeknd - One Of The Girls (w/ JENNIE, Lily-Rose Depp)",1134,2,1911389,-6613,13257474,2838965918,,global
+40,-6,Radiohead - Creep,1080,22,1906086,-85526,13561719,1809669899,,global
+41,+2,Hamza Malik - Alfaaz (w/ Zain Zohaib),42,26,1869499,+50392,12488320,65827273,,global
+42,+28,Sia - Snowman,343,8,1860533,+308533,10425378,849588618,,global
+43,-5,Billie Eilish - BIRDS OF A FEATHER,912,1,1848727,-91939,13648306,4050447987,,global
+44,+38,Ariana Grande - Santa Tell Me,500,3,1816534,+337523,9702907,1220285274,,global
+45,=,Oasis - Wonderwall - Remastered,1121,1,1782694,-27172,11693654,1138995821,,global
+46,-9,Harry Styles - Coming Up Roses,49,8,1782679,-164165,14254964,97451260,,global
+47,+2,Bad Bunny - DtMF,679,1,1776896,+24969,10972113,2236165597,,global
+48,-6,Coldplay - Yellow,2147,15,1768021,-81288,12890906,3341769016,,global
+49,-2,Harry Styles - Sign of the Times,569,13,1751569,-33445,12789648,812973224,,global
+50,-4,The Weeknd - Starboy (w/ Daft Punk),2333,1,1743986,-60885,12563821,4053149969,,global
+51,+77,Bobby Helms - Jingle Bell Rock,430,4,1743384,+420652,8977738,1230913124,,global
+52,-8,Ariana Grande - hate that i made you love me,170,1,1736551,-73572,12325126,580759251,,global
+53,+62,Kelly Clarkson - Underneath the Tree,319,6,1735641,+374262,6764507,823282953,,global
+54,-1,Olivia Rodrigo - deja vu,669,3,1706746,-1036,11301231,1130452310,,global
+55,-5,Mac Miller - Cinderella (w/ Ty Dolla $ign),179,18,1699748,-31433,12277988,363210649,,global
+56,-15,Evanescence - Bring Me To Life,579,41,1695720,-163854,12063831,823574830,,global
+57,-6,Bruno Mars - Locked out of Heaven,1786,14,1679616,-43005,11624559,2486158431,,global
+58,+2,"El Bogueto - Cuando No Era Cantante RMX - Remix (w/ Anuel AA, Fuerza Regida, Yung Beef)",131,39,1671227,+16188,11630685,195299326,,global
+59,-4,Vance Joy - Riptide,2824,16,1660729,-31029,11042385,3103887567,,global
+60,+2,Neton Vega - Olimpo (w/ Fuerza Regida),17,60,1658969,+42953,10681727,23639469,,global
+61,+87,Brenda Lee - Rockin' Around The Christmas Tree,425,2,1645308,+400684,4138137,1373879384,,global
+62,-1,"Drake - One Dance (w/ Wizkid, Kyla)",2373,1,1626347,-25973,10955038,3579904269,,global
+63,-7,"Justice - Flower In A Hurricane (w/ Tame Impala, SZA, Grand Theft Auto VI, King Gizzard & The Lizard Wizard)",16,41,1623804,-59451,9003943,22686152,,global
+64,-10,Arctic Monkeys - 505,1775,40,1619004,-73648,11540773,2632831678,,global
+65,-13,Lord Huron - The Night We Met,1565,15,1604763,-109598,11714055,2838046977,,global
+66,-8,Olivia Rodrigo - drop dead,212,1,1600357,-70913,11263819,603194751,,global
+67,+11,SHEAN - ako ang bagyo,20,59,1585161,+63451,10593481,27027953,,global
+68,-3,Dua Lipa - Training Season,263,7,1571048,-31132,10779412,508025246,,global
+69,+36,ILLIT - ì²´í¬íê² ì´,3,69,1548141,+142272,4343491,4343491,,global
+70,-3,RAYE - WHERE IS MY HUSBAND!,422,5,1546898,-19235,10190045,1113651393,,global
+71,=,Olivia Dean - So Easy (To Fall In Love),414,5,1535616,-15951,10694364,1150698040,,global
+72,-8,The Neighbourhood - Reflections,105,54,1535128,-67283,10731646,145004371,,global
+73,+13,Michael Jackson - Beat It,226,5,1521486,+52429,10170701,569379260,,global
+74,-15,Linkin Park - In the End,1250,8,1516675,-152137,11481805,1822951094,,global
+75,-2,Coldplay - Viva La Vida,1567,27,1511678,-36443,10188114,2447333335,,global
+76,+15,HUGEL - Jamaican (Bam Bam) (w/ SOLTO (FR)),226,21,1511197,+63640,9443173,390671952,,global
+77,-9,Dave - Raindance (w/ Tems),347,5,1509828,-45390,10619816,871339643,,global
+78,-4,Miguel - Sure Thing,704,14,1503865,-31296,11322463,1067781617,,global
+79,-10,Taylor Swift - The Fate of Ophelia,408,1,1500599,-53781,10604445,1752299923,,global
+80,+19,Bruno Mars - Risk It All,261,1,1496107,+74610,10153206,713576731,,global
+81,+3,Emmanuel Cortes - Amor,153,81,1492328,+18433,9785791,200389533,,global
+82,-16,OneRepublic - Counting Stars,2733,31,1485099,-82637,10304550,2704322882,,global
+83,+6,KAROL G - Si Antes Te Hubiera Conocido,820,4,1469969,+15371,9509818,1918157073,,global
+84,+8,TLC - No Scrubs,75,47,1462008,+16730,9832587,110223188,,global
+85,-6,Guns N' Roses - Sweet Child O' Mine,678,78,1458412,-61808,9281079,830127385,,global
+86,-1,"HUGEL - Movin' To The Sun (w/ Imael Angel, Ultra NatÃ©)",124,46,1453314,-20101,9469879,187186231,,global
+87,+15,Ed Sheeran - Shape of You,3053,1,1445778,+38022,10454116,4581894432,,global
+88,-7,Bad Bunny - BAILE INoLVIDABLE,679,2,1443636,-57031,9450637,1834389691,,global
+89,-9,Sam Fender - Rein Me In (w/ Olivia Dean),261,45,1433374,-69963,10555969,430730206,,global
+90,-15,Nirvana - Smells Like Teen Spirit - Remastered,965,67,1427716,-101166,9920309,1167596726,,global
+91,+44,"HUNTR/X - Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",511,1,1426249,+152937,8814754,1985751698,,global
+92,-2,bÃ´a - Duvet,55,80,1425100,-22530,9172585,70280724,,global
+93,-17,Billie Eilish - WILDFLOWER,912,8,1424292,-102850,11426750,2297669071,,global
+94,-11,The Weeknd - Die For You,1691,9,1421660,-54998,10033331,2789671895,,global
+95,+79,Felipe e Rodrigo - Eu Me Rendo - Ao Vivo,2,95,1420617,+228926,2612308,2612308,,global
+96,-19,SIENNA SPIRO - Die On This Hill,339,8,1419242,-103137,10832132,655964108,,global
+97,+1,Fleetwood Mac - Dreams - 2001 Remaster,216,43,1415577,-8040,9412822,363444776,,global
+98,+28,KATSEYE - Animal,114,5,1414672,+88194,9509851,242200872,,global
+99,-12,Arctic Monkeys - Do I Wanna Know?,1486,64,1414163,-51327,9980645,1299678979,,global
+100,-4,KÃ¸ddy G - Peli De Terror (w/ THE FAVORITES),14,79,1413721,-11318,9663537,18663723,,global
+101,-29,Season 25 - Shotta's.,7,72,1412762,-136837,9359230,9359230,,global
+102,+1,Benson Boone - Beautiful Things,1031,1,1410892,+3895,9621776,3219696145,,global
+103,-10,Gorillaz - Feel Good Inc,677,39,1397018,-43063,9445809,1020409443,,global
+104,+20,Fuerza Regida - COQUETA (w/ Grupo Frontera),546,76,1382058,+55033,8723650,742566009,,global
+105,+1,Post Malone - Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee),2527,1,1381484,-18794,9434627,3964632929,,global
+106,-12,Bruno Mars - Just the Way You Are,1435,24,1374892,-59471,9759338,2059165093,,global
+107,-3,Harry Styles - As It Was,1639,1,1370502,-35413,9482761,4594576880,,global
+108,-8,Rihanna - Don't Stop The Music,355,56,1370325,-47973,9326017,501753671,,global
+109,=,STELLA LEFTY - Boston,146,64,1360472,-18707,8773290,197690311,,global
+110,RE,Michael BublÃ© - It's Beginning to Look a Lot like Christmas,463,3,1358013,,2412363,1121832313,,global
+111,RE,Andy Williams - It's the Most Wonderful Time of the Year,415,5,1351104,,1351104,992560869,,global
+112,-17,Kendrick Lamar - All The Stars (w/ SZA),1253,2,1344548,-88359,9318949,2181449587,,global
+113,-2,Bruno Mars - That's What I Like,1492,5,1338172,-36688,8728665,2168724173,,global
+114,+9,Bad Bunny - EoO,674,4,1335024,-1060,8864123,1380306141,,global
+115,+15,Don Omar - Danza Kuduro (w/ Lucenzo),1040,45,1333073,+19605,8750715,1469411975,,global
+116,+9,"Tyler, The Creator - See You Again (w/ Kali Uchis)",1304,13,1329958,+3240,9069408,2354505696,,global
+117,=,Maroon 5 - Payphone (w/ Wiz Khalifa),949,46,1328392,-23273,9220651,1099346736,,global
+118,-11,Keane - Somewhere Only We Know,1421,60,1327960,-65587,9487158,1916931976,,global
+119,-22,Lana Del Rey - Young And Beautiful,538,74,1325735,-98008,9172729,692628738,,global
+120,+1,Shawn Mendes - There's Nothing Holdin' Me Back,786,5,1320386,-19664,9173532,1025168581,,global
+121,+26,eÅau - Sesi Potret (w/ Ari Lesmana),180,14,1317872,+72504,8813042,324446459,,global
+122,+11,Danny Ocean - Me RehÃºso,842,18,1317355,+16173,6198332,1101488026,,global
+123,-11,Cigarettes After Sex - Apocalypse,1531,44,1316047,-58309,10396958,2163912304,,global
+124,-2,The Weeknd - Blinding Lights,2539,1,1316022,-23349,9535203,5586011380,,global
+125,-37,Faouzia - UNETHICAL,45,68,1314768,-146736,9748178,59705607,,global
+126,-7,Jennifer Lopez - On The Floor (w/ Pitbull),182,21,1310764,-33830,8666547,325514508,,global
+127,-7,Rihanna - Only Girl (In The World),365,45,1298613,-42850,8846346,484998855,,global
+128,-12,Coldplay - Sparks,785,26,1292731,-65338,9580487,1214371055,,global
+129,-15,Empire Of The Sun - We Are The People,472,63,1284319,-77455,8964739,660694732,,global
+130,+28,Shakira - Hips Don't Lie (w/ Wyclef Jean),559,25,1281863,+49600,4824019,784313099,,global
+131,+48,Raim Laode - Iqro',125,68,1279594,+95278,4776762,159044511,,global
+132,-5,Feist - My Moon My Man,3,127,1279574,-43466,3846671,3846671,,global
+133,+3,Tame Impala - Dracula - JENNIE Remix (w/ JENNIE),274,7,1269654,-2418,10019584,579962932,,global
+134,-16,Taylor Swift - Patient Zero,51,1,1269374,-76135,9116572,141794669,,global
+135,-22,Olivia Rodrigo - honeybee,154,4,1268014,-96454,9668436,289001017,,global
+136,-28,Noah Kahan - Orbiter,115,79,1262415,-125353,9650880,146556701,,global
+137,RE,Al-Ghazali - Amnesia,2,137,1260933,,2328690,2328690,,global
+138,-7,Rihanna - We Found Love (w/ Calvin Harris),1056,18,1259994,-49956,8601811,1289030599,,global
+139,-10,JAÅ¸-Z - Empire State Of Mind (w/ Alicia Keys),145,81,1251076,-69242,6221905,187926207,,global
+140,-6,Lady Gaga - Poker Face,538,24,1247919,-39770,8405766,707263544,,global
+141,-40,Steve Lacy - oh yeah?,103,15,1247425,-160770,9500402,180169602,,global
+142,-10,Creedence Clearwater Revival - Have You Ever Seen The Rain,652,58,1246694,-54546,5016543,885078207,,global
+143,=,DJ Snake - Let Me Love You (w/ Justin Bieber),1040,2,1243182,-10000,8862706,1668282887,,global
+144,-34,Linkin Park - Numb,939,12,1242956,-134326,9529590,1344676709,,global
+145,+21,"Natanael Cano - OLIVIA LA FLAKA (w/ Tito Double P, Victor Mendivil, Ovi)",45,26,1236271,+31289,3501107,68265690,,global
+146,+25,Zara Larsson - Lush Life,998,4,1229178,+32180,6944699,1409954300,,global
+147,-10,The Chainsmokers - Closer (w/ Halsey),1997,1,1228158,-43498,8677290,2521393502,,global
+148,RE,Oscar Maydon - Tu Boda (w/ Fuerza Regida),281,4,1219742,,1219742,649934378,,global
+149,+10,Tears For Fears - Everybody Wants To Rule The World,1171,36,1216511,-13518,8425790,1489020734,,global
+150,-11,"Pitbull - Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",749,58,1215453,-48684,8348359,1050157833,,global
+151,RE,Hugo & Guilherme - Flash - Ao Vivo,4,131,1212989,,1212989,4793930,,global
+152,+10,Lady Gaga - Paparazzi,67,91,1212734,-6529,8452279,82079526,,global
+153,-11,Teddy Swims - Lose Control,1084,5,1212353,-45015,7206108,2632266268,,global
+154,RE,Raim Laode - Dunia Yang Nanti,104,47,1208922,,5834806,142096824,,global
+155,+23,Kanye West - Flashing Lights (w/ Dwele),375,95,1208260,+23508,8290884,468325497,,global
+156,-16,Tom Odell - Another Love,1931,11,1206229,-53437,8575039,3203887589,,global
+157,-5,Ed Sheeran - Perfect,3290,3,1205471,-35372,8450385,3823308843,,global
+158,-12,Olivia Rodrigo - expectations (w/ Chappell Roan),30,4,1204187,-41381,9712002,72242312,,global
+159,-2,The Script - The Man Who Can't Be Moved,381,79,1196234,-36981,8818415,508623197,,global
+160,-16,Rihanna - Umbrella (w/ JAÅ¸-Z),210,15,1195351,-51890,8319408,284025456,,global
+161,=,Rihanna - S&M,179,80,1195261,-29665,8066393,223723860,,global
+162,-17,Gracie Abrams - Thatâs So True,684,3,1194590,-52539,8872923,1844981040,,global
+163,RE,Neton Vega - RIKI,86,31,1192251,,5717034,123890254,,global
+164,RE,Dean Martin - Let It Snow! Let It Snow! Let It Snow!,297,5,1192172,,1192172,806634925,,global
+165,-27,sombr - Homewrecker,281,19,1191082,-73955,8939447,494157818,,global
+166,+23,Bad Bunny - NUEVAYoL,649,2,1190590,+32580,2348600,1532816373,,global
+167,-16,French Montana - Unforgettable (w/ Swae Lee),1146,3,1189408,-51800,8205906,1662773729,,global
+168,-13,Ariana Grande - Love Me Harder (w/ The Weeknd),351,6,1182420,-52713,4833905,245637952,,global
+169,-15,Prince - Purple Rain,133,29,1181886,-53809,8399880,187527970,,global
+170,+12,TOTO - Africa,938,66,1181479,+6223,5780117,911023367,,global
+171,-15,The Chainsmokers - Something Just Like This (w/ Coldplay),2124,2,1181427,-52089,8141044,2610420044,,global
+172,+4,The 1975 - About You,94,100,1179737,-6679,8555255,113665371,,global
+173,-4,Taylor Swift - Blank Space,890,14,1178010,-22782,3538296,1152511982,,global
+174,RE,ROSÃ - APT. (w/ Bruno Mars),749,1,1174594,,2234368,2622668019,,global
+175,-26,Ariana Grande - Into You,517,12,1173923,-70127,8372423,597569718,,global
+176,-13,David Guetta - Titanium (w/ Sia),182,136,1173776,-44453,4747670,91971859,,global
+177,+11,Aitana - SUPERESTRELLA,109,32,1172200,+12719,2331681,172820412,,global
+178,-25,The Cranberries - Zombie - 2025 Remastered,74,49,1171178,-67806,8365106,94957986,,global
+179,-38,Katy Perry - Legendary Lovers,64,132,1167935,-89999,7153641,75932349,,global
+180,-7,Alyssa Grace - bloodstream,118,71,1166556,-28625,8454042,163099517,,global
+181,-14,Rihanna - Kiss It Better,279,74,1165519,-37503,8454763,254513266,,global
+182,RE,Netto Brito - Mega Hair - Ao Vivo (w/ Luan Pereira),7,125,1160846,,1160846,8271314,,global
+183,+10,Zara Larsson - Midnight Sun,293,52,1160583,+8895,2312271,428081048,,global
+184,NEW,"Sai Abhyankkar - Veezha Veera (From ""OM Chapter 1: Udhiram - The Blood Wood"") [Tamil] (w/ Tippu, Arun Srinivasan)",1,184,1160378,,1160378,1160378,,global
+185,RE,Mariah Deborah - Na Para Bang,41,57,1158480,,7131739,55739142,,global
+186,-36,Steve Lacy - nothing,11,109,1148704,-93306,8681852,13440598,,global
+187,-6,The MarÃ­as - No One Noticed,637,32,1146981,-31885,6840354,1070229820,,global
+188,RE,"Bleachers - Merry Christmas, Please Don't Call",5,90,1146158,,2241759,8563172,,global
+189,NEW,"MC Jvila - Geme Baixo (w/ Menor MC, Honaiser, DJ Dael, DJ JOÃO PEREIRA, G.A, Galdino)",1,189,1144595,,1144595,1144595,,global
+190,RE,Banjaare - Barsaat (w/ Roni),78,85,1142004,,4597999,95895518,,global
+191,+7,Sabrina Carpenter - Espresso,935,1,1139709,-2771,3432030,3201377699,,global
+192,-32,Eminem - Love The Way You Lie (w/ Rihanna),102,110,1139042,-90125,4714231,131231308,,global
+193,RE,LOS DOS DE TAMAULIPAS - AyÃºdame,116,87,1138232,,1138232,149530838,,global
+194,-30,Eminem - Without Me,1781,29,1136632,-70377,4607550,2224876267,,global
+195,-18,Bon Jovi - Livin' On A Prayer,33,157,1134792,-50188,3457682,39533243,,global
+196,RE,a-ha - Take on Me - 2015 Remaster,154,60,1131547,,6515552,198068400,,global
+197,RE,Justin Bieber - Baby (w/ Ludacris),179,5,1129963,,2167454,313317246,,global
+198,-30,Mazzy Star - Fade Into You,97,73,1125853,-75853,8645348,124856553,,global
+199,RE,Katy Perry - Last Friday Night (T.G.I.F.),256,101,1121476,,2191000,327538867,,global
+200,-17,Radiohead - Let Down,422,49,1120917,-53624,8108228,624498232,,global
