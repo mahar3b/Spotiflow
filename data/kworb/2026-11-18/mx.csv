@@ -1,0 +1,201 @@
+pos,trend,artist_title,days,peak,streams,streams_change,seven_day,total,track_id,region
+1,=,Fuerza Regida - Suzuki (from GTAVI: The Album) (w/ Grand Theft Auto VI),39,1,1353470,-35439,9923150,43824296,,mx
+2,=,Neton Vega - Olimpo (w/ Fuerza Regida),25,2,1114310,-56986,8296189,22475524,,mx
+3,=,"KAROL G - BbY WOW (w/ Judeline, rusowsky)",99,1,1026363,-114774,8428142,142239049,,mx
+4,=,"Natanael Cano - OLIVIA LA FLAKA (w/ Tito Double P, Victor Mendivil, Ovi)",53,1,820570,-43280,6260415,63456374,,mx
+5,=,Neton Vega - RIKI,102,1,784205,-40242,6100867,110984835,,mx
+6,=,Omar Camacho - King of Watches,168,6,724193,-21385,5499513,96468707,,mx
+7,=,Neton Vega - Nalguita y Teta,231,1,685445,-16549,5282899,240997590,,mx
+8,=,LOS DOS DE TAMAULIPAS - AyÃºdame,232,2,645824,-54848,4887413,173073273,,mx
+9,+1,Victor Mendivil - Cansada (w/ Victoria Mendivil),25,4,628982,+3542,4947947,20123107,,mx
+10,-1,Neton Vega - Pvta Luna,415,1,607783,-34535,4705526,357554741,,mx
+11,=,Junior H - DEMENCIA (w/ Gael Valenzuela),277,4,584569,-19342,4477776,171564709,,mx
+12,=,El Rabbanito - Dandy Hats,110,4,565211,-25515,4058601,66519929,,mx
+13,+2,Fuerza Regida - caperuza,564,11,562475,+7905,4103372,263760449,,mx
+14,-1,Clave Especial - MAÃA,8,13,534104,-29485,3352170,3603703,,mx
+15,-1,"El Bogueto - Cuando No Era Cantante RMX - Remix (w/ Anuel AA, Fuerza Regida, Yung Beef)",148,4,525603,-30257,3978568,74387965,,mx
+16,=,Lenin RamÃ­rez - Todo Lo Fue,307,2,501929,-46329,3913851,258907459,,mx
+17,=,Oscar Maydon - Tu Boda (w/ Fuerza Regida),781,1,499888,-22825,3534087,628981551,,mx
+18,+3,Fuerza Regida - TU SANCHO,564,1,495133,+6523,3502545,554220240,,mx
+19,+1,Omar Camacho - 2+2 (w/ Victor Mendivil),511,1,479143,-10367,3621541,407698814,,mx
+20,+2,Victor Mendivil - GanÃ© (w/ Gabito Ballesteros),159,13,468892,-17815,3711946,69952777,,mx
+21,+5,Victor Mendivil - FES (w/ Omar Camacho),25,6,465896,-2636,3501776,14086843,,mx
+22,-4,La Arrolladora Banda El LimÃ³n De Rene Camacho - El Final De Nuestra Historia,1287,11,461361,-43376,3355145,469521123,,mx
+23,+1,Peso Pluma - daÃ±o (w/ Tito Double P),326,1,455698,-18255,3488568,294654196,,mx
+24,+4,Fuerza Regida - Marlboro Rojo,564,1,453725,-7384,3182078,531162280,,mx
+25,=,Natanael Cano - Mar Azul,81,6,453052,-18941,3570016,45744060,,mx
+26,-7,Lenin RamÃ­rez - Polvo Rosita,295,4,452737,-50426,3543838,157834489,,mx
+27,+6,Fuerza Regida - EXCESOS,863,14,435041,+14097,3094604,301207380,,mx
+28,+7,Emmanuel Cortes - Amor,873,10,432347,+34097,2985367,357482135,,mx
+29,-6,"Moy Bobadilla - Tus Mentiras (En Vivo) (w/ Grupo Firme, Max Peraza)",334,10,430839,-44670,3177291,157518743,,mx
+30,-1,El Rabbanito - La Formula,150,7,430212,-11897,3035804,76727836,,mx
+31,-1,Barbas - DÃ³nde estÃ¡s (w/ Omar Camacho),70,19,428318,-13727,3326439,27273356,,mx
+32,-5,Bobby Pulido - Desvelado,1050,23,424318,-41265,3153525,205401075,,mx
+33,-1,Aitana - SUPERESTRELLA,260,3,411489,-9633,3281436,134788737,,mx
+34,=,LATIN MAFIA - Te Estoy Correteando (w/ Fred again..),108,3,410266,+2843,3303522,74052037,,mx
+35,+2,"Omar Camacho - 4x4 (w/ Victor Mendivil, Angel Almaguer, $HUPE)",305,4,395853,-1505,3045300,173668584,,mx
+36,-5,Fuerza Regida - COQUETA (w/ Grupo Frontera),697,11,394738,-30867,2809378,372314996,,mx
+37,-1,"Calle 24 - Que Onda (w/ Chino Pacas, Fuerza Regida)",1171,1,384711,-13027,2851118,733661025,,mx
+38,=,Danny Ocean - Me RehÃºso,3486,1,380935,-11063,2989695,772271635,,mx
+39,+3,Chuyin - PUES YA NI PEDO (w/ Fuerza Regida),193,26,378796,+14807,2652254,71163256,,mx
+40,-1,Alfredo Olivas - El Precio De La Soledad,1519,21,363948,-14635,2498623,488548772,,mx
+41,+2,Calle 24 - Noche Perfecta (w/ Fuerza Regida),219,4,359639,+1104,2546301,113123493,,mx
+42,+3,Herencia De Grandes - Ya Borracho,371,2,351556,+5557,2507828,269354200,,mx
+43,+44,Tito Double P - FRANCIA,4,43,348335,+63158,1315074,1315074,,mx
+44,+3,La Santa Grifa - Table Dance (w/ Chino El Don),112,11,343044,-1418,2655548,47132530,,mx
+45,+17,"Marc SeguÃ­ - Tiroteo - Remix (w/ Rauw Alejandro, Pol Granch)",1261,10,342993,+19650,2716053,345110039,,mx
+46,-5,Hermanos Espinoza - FREESTYLE,213,23,342850,-23170,2570372,76675464,,mx
+47,+14,Calle 24 - TÃXICOS,213,40,341411,+17095,2364001,70877070,,mx
+48,+4,Eley Romero - Que Se Siente (w/ Adrian L Santos),67,29,341041,+2965,2409955,19242922,,mx
+49,+1,Junior H - LAS NOCHES,533,11,339760,-791,2597236,225562217,,mx
+50,+1,Victor Mendivil - Cereza,25,41,335599,-3143,2584683,8307745,,mx
+51,-11,KAROL G - Si Antes Te Hubiera Conocido,879,2,332190,-34819,2738817,404969548,,mx
+52,+6,Grupo Feroz - Condenados,90,30,331680,+6414,2545678,31618326,,mx
+53,-7,Junior H - Y LLORO,1138,3,331102,-13659,2604743,712249226,,mx
+54,+9,Fuerza Regida - ANSIEDAD,564,6,330562,+11389,2366871,342375132,,mx
+55,+2,Victor Mendivil - NiÃ±a Mafia,25,22,330371,+2865,2354202,7966963,,mx
+56,-2,JÃ³sean Log - Doma,246,9,330181,-4543,2622152,106979379,,mx
+57,-2,Neton Vega - Morena (w/ Peso Pluma),641,1,327936,-178,2376686,428448617,,mx
+58,+2,Tito Double P - POR SUS BESOS,494,1,323193,-1223,2350091,330828660,,mx
+59,+30,La La Love You - El Fin del Mundo (w/ Axolotes Mexicanos),196,9,320132,+36462,2341625,77365649,,mx
+60,+5,Junior H - MIENTRAS DUERMES,737,6,314203,-2518,2386253,378332982,,mx
+61,-13,Grupo Frontera - EL AMOR DE SU VIDA (w/ Grupo Firme),1196,5,313727,-28425,2397473,594265837,,mx
+62,+13,ManÃ¡ - Oye Mi Amor - 2019 Remasterizado,8,28,313600,+13070,2542432,2860418,,mx
+63,+3,Omar Camacho - La Ciudad del Sol (w/ Oscar Maydon),452,9,313306,-3101,2442557,205223754,,mx
+64,-15,Grupo Firme - El Beneficio De La Duda,902,4,311360,-29318,2337872,306173458,,mx
+65,-12,El Bogueto - Cuando No Era Cantante (w/ Yung Beef),685,1,310705,-27030,2597386,394202171,,mx
+66,-22,Cardenales De Nuevo LeÃ³n - Belleza De Cantina,2148,19,308520,-42600,2160313,411100116,,mx
+67,-8,Natanael Cano - Perlas Negras (w/ Gabito Ballesteros),503,1,306303,-18352,2398463,344395584,,mx
+68,+5,Neton Vega - Todo a Su Tiempo,703,21,305438,+1386,2207846,262721240,,mx
+69,=,Bad Bunny - BAILE INoLVIDABLE,681,1,304524,-6646,2271523,388159322,,mx
+70,-14,JuliÃ³n Ãlvarez y su NorteÃ±o Banda - Regalo De Dios,1054,3,303039,-24673,2249734,546516122,,mx
+71,-1,Calle 24 - SUIZA,568,2,301944,-5452,2226349,328545231,,mx
+72,-8,"Jorsshh - Taco El Flaco (w/ Luis R Conriquez, Neton Vega)",80,55,300042,-18858,2091741,21148589,,mx
+73,+4,"EON - NI TAN SANTX (w/ Neton Vega, De La Rose, L Prince)",39,30,297536,+870,2142675,13094477,,mx
+74,+5,Jimmy Guzman - Gramos,25,69,296814,+1437,2189616,6739110,,mx
+75,-1,Bad Bunny - DtMF,681,1,295645,-7268,2240396,409448652,,mx
+76,+16,Fuerza Regida - PERO NO TE ENAMORES,806,27,293565,+17777,2085744,251386456,,mx
+77,+13,Colmillo NorteÃ±o - SueÃ±o Guajiro,192,31,292133,+9985,2086494,48238708,,mx
+78,-6,Bobby Pulido - Se MuriÃ³ De Amor,94,33,291170,-14324,2259641,23133644,,mx
+79,+4,Peso Pluma - dopamina (w/ Tito Double P),326,1,288945,-715,2191707,267479001,,mx
+80,-9,Banda MS de Sergio LizÃ¡rraga - A Lo Mejor,894,48,286746,-19625,2110853,102327552,,mx
+81,-3,KAROL G - Coleccionando Heridas (w/ Marco Antonio SolÃ­s),515,23,283644,-12981,2318423,164604534,,mx
+82,+17,BTS - SWIM,242,1,282550,+16327,2103078,130788884,,mx
+83,-16,Virlan Garcia - Mi Entorno,397,6,281962,-33974,2161122,190137080,,mx
+84,-2,Junior H - PIÃNSALO,872,9,281946,-9861,2143073,416993944,,mx
+85,+9,Chuyin - PUES QUE LE HAGO ?,315,10,280077,+5418,2049762,142716088,,mx
+86,-18,Los Cadetes De Linares - No Hay Novedad,84,45,279087,-34268,1370346,18314453,,mx
+87,-6,Peso Pluma - HOLLYWOOD (w/ Estevan Plazola),879,14,278996,-13059,2093046,420983053,,mx
+88,-12,Neton Vega - /90 60 90 (w/ Myke Towers),116,28,277893,-21961,2197737,36034833,,mx
+89,+2,Victor Mendivil - Beretta (w/ Tito Double P),25,14,274648,-7249,2154997,9391651,,mx
+90,+18,rusowsky - neo roneo (w/ LATIN MAFIA),113,29,270481,+10337,2142653,37359483,,mx
+91,+30,"Calle 24 - ULTIMAMENTE (w/ Fuerza Regida, Chino Pacas)",474,57,270266,+22581,1893385,124419912,,mx
+92,-6,Eden MuÃ±oz - Como En Los Viejos Tiempos,409,52,269786,-17640,2066491,109088631,,mx
+93,+3,Junior H - TRES BOTELLAS,1103,21,269607,-2090,2017468,361198559,,mx
+94,+25,Fuerza Regida - Por Esos Ojos,642,1,265661,+16870,1810040,372872057,,mx
+95,-11,Alfredo Olivas - El Paciente,1890,45,264334,-25292,1830470,330692901,,mx
+96,+24,Clave Especial - COMO CAPO (w/ Fuerza Regida),559,4,262806,+14721,1748843,262472340,,mx
+97,+19,"Los Ãngeles Azules - Amor A Primera Vista (w/ Belinda, Lalo Ebratt, Horacio Palencia)",937,7,262201,+11513,1751244,144384962,,mx
+98,-13,Grupo CaÃ±averal De Humberto PabÃ³n - Tiene Espinas el Rosal,159,49,261777,-27776,1650712,34714758,,mx
+99,-4,Cardenales De Nuevo LeÃ³n - Si Yo Fuera Ãl,22,95,261304,-10641,1546691,5023778,,mx
+100,+15,Fuerza Regida - CHAVALITAS,521,1,258305,+7421,1817046,286692320,,mx
+101,-1,Berner - El Chivo (w/ T3R Elemento),73,50,257838,-6812,1915869,20815099,,mx
+102,-4,Calle 24 - Apaga El Cel (w/ Chino Pacas),509,8,254644,-12745,1782389,208206281,,mx
+103,-15,LOS DOS DE TAMAULIPAS - Gastando Verdes,121,77,253833,-30159,1874216,28491054,,mx
+104,+8,Tito Double P - ENTRE TU Y YO,67,12,252695,-2132,1904043,24326533,,mx
+105,-8,Plan B - Es un Secreto,1669,28,252308,-17689,2072307,494980341,,mx
+106,-1,Gabito Ballesteros - 7 DÃAS (w/ Tito Double P),386,13,251372,-11839,1891869,132805064,,mx
+107,NEW,Omar Camacho - Dreamer Hats,1,107,248563,,248563,248563,,mx
+108,-1,Juan Freer - Los SueÃ±os Se Trabajan (w/ Legion RG),48,87,246397,-13995,1845791,11660246,,mx
+109,-5,"La Adictiva - DespuÃ©s de Ti, Â¿QuiÃ©n?",1285,13,244921,-18903,1779689,211984064,,mx
+110,+8,Natanael Cano - Me Gusta,27,81,244398,-4446,1893061,6712421,,mx
+111,+20,Neton Vega - Loco,694,1,243105,+5115,1814568,385112697,,mx
+112,+11,Los Angeles De Charly - Me VolvÃ­ A Acordar De Ti,8,112,243101,-2991,1498553,1926186,,mx
+113,+21,Fuerza Regida - ME JALO (w/ Grupo Frontera),692,5,242817,+5483,1672690,342127295,,mx
+114,+30,"Luis R Conriquez - Chula Vente (w/ Fuerza Regida, Neton Vega)",480,2,241497,+11850,1707728,243265835,,mx
+115,-6,Tito Double P - DOS DÃAS (w/ Peso Pluma),816,2,240849,-17559,1912735,546117600,,mx
+116,-6,La Factoria - PerdÃ³name (w/ Eddy Lover),395,62,240001,-16015,1974319,93728479,,mx
+117,-14,Los Alegres Del Barranco - El Del Palenque,308,22,239983,-23992,1473408,85908136,,mx
+118,+10,Eden MuÃ±oz - La Magia de Conectar,19,118,239289,-918,1720841,4204874,,mx
+119,+24,Junior H - Extssy Model,1497,18,239254,+8549,1857185,564879486,,mx
+120,+15,Espinoza Paz - Lo Intentamos,134,64,238654,+1512,1793271,32044720,,mx
+121,+4,Peso Pluma - 7-3 (w/ Tito Double P),326,2,238128,-4598,1788781,214648712,,mx
+122,-5,Bad Bunny - EoO,681,7,237208,-12080,1922392,311781085,,mx
+123,-43,Grupo Firme - Cuando Yo Me Muera (w/ El Esparza),13,80,236604,-56072,1893810,3407644,,mx
+124,+30,ZoÃ© - Luna - Live,349,66,236227,+11493,1828446,45890386,,mx
+125,+24,Ian Cordova - Te Amo y Me Amas,345,19,235583,+7950,1510084,119602872,,mx
+126,+4,Victor Mendivil - P.V. (w/ Fenix Flexin),392,36,234141,-4194,1810266,111657059,,mx
+127,-26,CarÃ­n LeÃ³n - Que Vuelvas (w/ Grupo Frontera),1104,2,233487,-31152,1835515,551939296,,mx
+128,-17,Natanael Cano - Madonna (w/ Oscar Maydon),983,1,233341,-21597,1824588,648138931,,mx
+129,-2,"Junior H - DROGA LETAL (w/ Gael Valenzuela, Peso Pluma)",277,1,232997,-7226,1785674,118187532,,mx
+130,-17,Grupo Firme - Amor De Antes (w/ Herencia De Grandes),39,79,232355,-20055,1849066,9442236,,mx
+131,-29,La Arrolladora Banda El LimÃ³n De Rene Camacho - Mi Segunda Vida,1272,27,232351,-31661,1846253,234449976,,mx
+132,-8,Cardenales De Nuevo LeÃ³n - Que Nadie Sepa (w/ Los Carnales de Nuevo LeÃ³n),84,17,231916,-11078,1460826,30939036,,mx
+133,-4,Conjunto Primavera - Actos De Un Tonto,109,110,231879,-6918,1660259,24466411,,mx
+134,+62,Mon Laferte - Tu Falta De Querer,2100,47,231457,+26014,1669193,271698969,,mx
+135,+16,J Balvin - LA CANCIÃN (w/ Bad Bunny),2692,1,231342,+5398,1877112,759535449,,mx
+136,+45,Fuerza Regida - UNA CERVEZA (w/ Manuel Turizo),823,20,231141,+21585,1575602,265151337,,mx
+137,-23,Alfredo Olivas - Vete,952,24,230063,-22131,1501628,321204781,,mx
+138,+7,Tito Double P - NADIE,707,2,229093,-225,1748014,396821209,,mx
+139,-13,5050 - Ando En La Disco (Da Players Town),44,62,228553,-11797,1857072,11878230,,mx
+140,-4,Caifanes - Afuera,1284,59,228331,-8561,1778565,165050239,,mx
+141,-8,"Bad Bunny - Diles (w/ Ozuna, Farruko, ArcÃ¡ngel, Ãengo Flow, DJ Luian, Mambo Kingz)",976,25,228290,-9293,1907183,215707449,,mx
+142,-2,Los Dareyes De La Sierra - Frecuencia,501,2,228266,-3957,1659060,266285761,,mx
+143,-50,El Cartel De Nuevo Leon - Pajarillo,115,50,227574,-47157,1482152,27280200,,mx
+144,-7,Peso Pluma - tu con el (w/ Tito Double P),326,9,226597,-9040,1779438,164003188,,mx
+145,+5,"Peso Pluma - chiclona (w/ Tito Double P, LENCHO)",263,3,225596,-1289,1665368,135909592,,mx
+146,+26,La Santa Grifa - Sabanas Blancas,492,72,225069,+10718,1698658,123348913,,mx
+147,-41,Edicion Especial - Si Es Posible,134,43,224818,-36736,1800916,31951552,,mx
+148,-26,JuliÃ³n Ãlvarez y su NorteÃ±o Banda - Lo Tienes Todo,1062,12,224482,-21958,1483626,401932863,,mx
+149,-8,Juan Gabriel - AbrÃ¡zame Muy Fuerte,255,1,224140,-7274,1778668,47757174,,mx
+150,-12,Cornelio Vega y su Dinastia - Voy Llegando a tu Ciudad,161,49,224043,-11199,1439077,40358066,,mx
+151,+20,Neton Vega - Mi Vida Mi Muerte,496,11,221025,+6370,1669285,174126622,,mx
+152,+25,Belanova - Rosa Pastel,1397,19,220261,+8570,1679574,437803631,,mx
+153,-1,La UniÃ³n - Lobo-hombre en ParÃ­s,183,109,219868,-5617,1737048,29025267,,mx
+154,+7,Luis Miguel - La Incondicional,1860,13,218946,-1026,1673871,236288748,,mx
+155,-23,Espinoza Paz - El PrÃ³ximo Viernes,53,90,218860,-18868,1654311,12002863,,mx
+156,-17,Maluma - Borro Cassette,1945,2,218593,-16212,1805999,312557711,,mx
+157,+18,Peso Pluma - LAGUNAS (w/ Jasiel NuÃ±ez),763,11,217644,+5633,1377805,265734495,,mx
+158,RE,Miranda! - Perfecta,129,68,217350,,1486268,29408880,,mx
+159,+8,Tito Double P - LINDA (w/ Neton Vega),770,8,217251,+994,1596354,335938487,,mx
+160,+24,Mon Laferte - Mi Buen Amor (w/ Bunbury),981,51,216539,+8301,1645202,161960678,,mx
+161,+15,Tito Double P - 5-7 (w/ Junior H),813,9,216492,+4501,1609349,387486944,,mx
+162,-3,Hombres G - DevuÃ©lveme a mi chica,2553,61,215949,-6297,1385733,307553704,,mx
+163,-8,Xavi - En Privado (w/ Manuel Turizo),639,14,214829,-9042,1698602,266277788,,mx
+164,+6,Victor Mendivil - Que Cosas,25,41,214005,-1188,1690135,7506354,,mx
+165,+3,Elefante - De la Noche a la MaÃ±ana,54,106,213342,-2786,1451041,11988131,,mx
+166,-18,Los Socios Del Ritmo - Llorar,38,41,212333,-16373,929030,8809433,,mx
+167,+2,JuliÃ³n Ãlvarez y su NorteÃ±o Banda - Rey Sin Reina,583,1,212103,-3869,889467,251992661,,mx
+168,+5,Duncan Dhu - En algÃºn lugar,451,55,211515,-2334,1669195,83848716,,mx
+169,+28,Junior H - COLOGNE (w/ Ovi),537,8,210486,+5118,1642932,156143772,,mx
+170,RE,Calle 24 - NO PIERDO LA VIDA (w/ Chuyin),316,29,209970,,209970,87946245,,mx
+171,+29,Banda Clave Nueva - CuÃ¡l AdiÃ³s,227,77,208385,+3903,412867,53613460,,mx
+172,+15,Victor Mendivil - GOET,871,19,208203,+1006,1576991,304916317,,mx
+173,RE,Marc SeguÃ­ - Tiroteo (w/ Pol Granch),102,84,208002,,1135266,21105933,,mx
+174,-17,Alfredo Olivas - En Definitiva,1505,42,208000,-15487,1358535,302082961,,mx
+175,-1,Rauw Alejandro - KhÃ©? (w/ Romeo Santos),616,10,207942,-4225,1681813,226527728,,mx
+176,-30,Emi Blue - Dr. Doctor (w/ Dani Flow),17,146,207761,-21406,1602562,3733594,,mx
+177,+11,La Arrolladora Banda El LimÃ³n De Rene Camacho - El Ruido De Tus Zapatos,622,56,207243,+307,882307,71978198,,mx
+178,+2,"Victor Mendivil - Afr1n (w/ Omar Camacho, $HUPE)",39,11,206717,-3206,1630984,14087473,,mx
+179,-19,KAROL G - PROVENZA,1209,1,206403,-14177,1643665,433698033,,mx
+180,-14,Calibre 50 - Si Te Pudiera Mentir,1205,2,204869,-11844,663823,288778769,,mx
+181,RE,Jimmy Guzman - 3 AM (w/ Omar Camacho),299,17,202902,,648838,121414309,,mx
+182,+11,Tito Double P - ME VALE V,172,8,202799,-3101,1557913,70829140,,mx
+183,-1,Banda Tierra Sagrada - La Buena y la Mala,649,24,202575,-6642,646975,68770203,,mx
+184,-28,Grupo Firme - Al Final Del DÃ­a,131,69,202566,-21097,1404350,31389027,,mx
+185,-43,Cardenales De Nuevo LeÃ³n - Mi CÃ³mplice,365,39,202243,-28644,433130,86221192,,mx
+186,-22,Christian Nodal - Ya No Somos Ni Seremos,1027,1,201386,-17463,898359,329544328,,mx
+187,-24,Pesado - A chillar a otra parte,179,50,201166,-17730,1430253,41436221,,mx
+188,-23,Grupo Frontera - Hecha Pa' MÃ­,279,21,201095,-17188,870834,89468729,,mx
+189,RE,Los AutÃ©nticos Decadentes - Loco (Tu Forma De Ser),31,99,201050,,892440,6947946,,mx
+190,RE,AlemÃ¡n - Te QuerÃ­a Ver (w/ Neton Vega),654,1,200784,,1365655,399012601,,mx
+191,-44,La Arrolladora Banda El LimÃ³n De Rene Camacho - Ya Es Muy Tarde,884,53,199947,-29130,1128414,200217305,,mx
+192,RE,Oscar Maydon - Amigos? No. (w/ Neton Vega),537,4,199682,,199682,273674266,,mx
+193,-8,Junior H - Ella,1526,41,199364,-8757,1545924,239751238,,mx
+194,RE,Victor Mendivil - Mia (w/ Gabito Ballesteros),366,61,199315,,199315,86132072,,mx
+195,-37,Luis Miguel - Ahora Te Puedes Marchar,3422,13,199001,-23856,1619312,520405891,,mx
+196,-43,Emi Blue - LOBA,19,91,198941,-25800,1590052,4333617,,mx
+197,-11,Rauw Alejandro - QuÃ© PasarÃ­a... (w/ Bad Bunny),707,7,197892,-9592,1655360,299565128,,mx
+198,RE,Moy Bobadilla - CorazÃ³n,173,87,197044,,416618,40112219,,mx
+199,RE,Natanael Cano - Polos Opuestos,98,14,196745,,431638,26441140,,mx
+200,-1,"RÃ©gulo Molina - Canasteo (w/ Oscar Maydon, Neton Vega)",294,5,196161,-8325,1285488,127205006,,mx
