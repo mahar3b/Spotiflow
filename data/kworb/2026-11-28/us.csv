@@ -1,0 +1,201 @@
+pos,trend,artist_title,days,peak,streams,streams_change,seven_day,total,track_id,region
+1,+3,Brenda Lee - Rockin' Around The Christmas Tree,530,1,1196053,+128155,6363242,560789952,,us
+2,+1,Mariah Carey - All I Want for Christmas Is You,626,1,1169653,+71894,6669258,564207919,,us
+3,+3,Bobby Helms - Jingle Bell Rock,534,1,1136998,+132594,6093339,480933863,,us
+4,+1,Wham! - Last Christmas,515,1,1105407,+60817,6595408,427370115,,us
+5,+4,Andy Williams - It's the Most Wonderful Time of the Year,521,3,942248,+137102,4760839,396340784,,us
+6,-4,Ella Langley - Choosin' Texas,406,1,937136,-166401,7152716,512677064,,us
+7,-6,"Justice - Flower In A Hurricane (w/ Tame Impala, SZA, Grand Theft Auto VI, King Gizzard & The Lizard Wizard)",29,1,871447,-258382,6786893,15503699,,us
+8,+5,Dean Martin - Let It Snow! Let It Snow! Let It Snow!,356,5,864218,+107139,4282329,278896256,,us
+9,+1,Ariana Grande - Santa Tell Me,527,5,831693,+32715,4733712,350352127,,us
+10,+7,Darlene Love - Christmas (Baby Please Come Home),269,10,805822,+78858,4269860,190359257,,us
+11,+1,Kelly Clarkson - Underneath the Tree,369,8,803527,+38570,4613860,263432856,,us
+12,+6,The Ronettes - Sleigh Ride,330,8,778858,+80391,4014285,239026486,,us
+13,+12,JosÃ© Feliciano - Feliz Navidad,356,6,734348,+96051,3666720,250332316,,us
+14,-7,Ashe - Stop The Wedding!,84,2,700695,-179700,6019106,51802154,,us
+15,+13,Michael BublÃ© - It's Beginning to Look a Lot like Christmas,533,3,678973,+71062,3676912,329941151,,us
+16,-5,ADÃLA - Nicole Kidman,84,1,665484,-121266,5265130,83555391,,us
+17,-9,Tate McRae - Housewife,42,1,661898,-163817,5462241,52125171,,us
+18,+12,Nat King Cole - The Christmas Song (Merry Christmas To You) - Remastered 1999,65,10,653026,+67649,1238403,14324931,,us
+19,+8,Sia - Snowman,246,18,641695,+19476,3768438,141200436,,us
+20,+13,Michael BublÃ© - Holly Jolly Christmas,408,10,625723,+79632,3371199,240391808,,us
+21,+1,"KAROL G - BbY WOW (w/ Judeline, rusowsky)",107,2,620967,-37822,4602567,87101338,,us
+22,-2,Steve Lacy - nothing,82,9,614387,-70138,4694712,40956518,,us
+23,-8,Olivia Rodrigo - the cure,189,1,603257,-131825,5046464,177309813,,us
+24,-5,Malcolm Todd - Earrings,327,1,598145,-97523,4921941,283248794,,us
+25,-11,Olivia Rodrigo - stupid song,168,1,595207,-155078,4869838,167978183,,us
+26,-10,The Killers - Mr. Brightside,2279,4,589442,-138400,4727187,934057467,,us
+27,-1,Olivia Dean - Man I Need,464,1,555320,-82322,4189755,419766747,,us
+28,-4,Whiskey Myers - Broken Window Serenade,484,7,545092,-96427,4420990,264125637,,us
+29,+12,"Perry Como - It's Beginning to Look a Lot Like Christmas (w/ The Fontane Sisters, Mitchell Ayres & His Orchestra)",330,9,537119,+54856,2418305,212674307,,us
+30,-7,Noah Kahan - Orbiter,216,14,530015,-120255,3915531,117273957,,us
+31,+7,Justin Bieber - Mistletoe,420,13,522502,+16336,3054524,219749223,,us
+32,-11,Noah Kahan - Willing and Able,216,11,514550,-144604,3839262,108890288,,us
+33,+24,"Bing Crosby - White Christmas - 1947 Version (w/ Ken Darby Singers, John Scott Trotter & His Orchestra)",78,14,505145,+62883,2289257,69324666,,us
+34,+13,Chuck Berry - Run Rudolph Run - Single Version,339,13,503073,+44804,2380472,192918528,,us
+35,+20,Eagles - Please Come Home for Christmas - Eagles 2013 Remaster,162,17,489847,+46054,2368447,104747617,,us
+36,+20,Paul McCartney - Wonderful Christmastime - Edited Version / Remastered 2011,193,14,489341,+46332,2360512,129676843,,us
+37,-1,Steve Lacy - the feeling,139,14,485882,-44391,3751816,63850574,,us
+38,+15,Mykola Dmytrovych Leontovych - Carol of the Bells (w/ John Williams),294,16,484265,+39498,2259464,142585697,,us
+39,+25,Nat King Cole - Deck The Hall - Remastered 1999,8,39,481640,+53924,2153519,2412153,,us
+40,-9,Jamie Miller - Babydoll,55,19,476089,-98406,3658661,23543410,,us
+41,-12,Noah Kahan - Draw You Out (w/ The Hunger Games),53,2,474249,-123274,3464188,23574961,,us
+42,+21,Burl Ives - A Holly Jolly Christmas - Single Version,386,5,471696,+43478,2154618,259674668,,us
+43,+28,Elvis Presley - Blue Christmas,364,11,460496,+58020,2067646,193603618,,us
+44,+22,Frank Sinatra - Jingle Bells - Remastered 1999,169,17,459453,+41915,1744947,119908923,,us
+45,-2,Fleetwood Mac - Dreams - 2001 Remaster,227,9,455649,-21755,2995108,139507778,,us
+46,-14,Ella Langley - Be Her,287,3,453986,-95795,3451439,221970604,,us
+47,+25,Eartha Kitt - Santa Baby (w/ Henri RenÃ© and His Orchestra),4,47,453105,+50945,1419479,1419479,,us
+48,-14,STELLA LEFTY - Boston,233,6,443531,-92067,3425620,139832715,,us
+49,-10,Travis Scott - Burn This Shit Down (from GTAVI: The Album) (w/ Grand Theft Auto VI),3,29,442347,-58863,1482756,1482756,,us
+50,-15,ADÃLA - Ain't In LA,121,7,438281,-96742,3597354,69630390,,us
+51,-14,The Neighbourhood - Sweater Weather,2479,7,436428,-71972,3544614,1180054551,,us
+52,+25,John Lennon - Happy Xmas (War Is Over) - Remastered 2010 (w/ Yoko Ono),190,25,428405,+39799,1382515,107556129,,us
+53,+33,Bing Crosby - Mele Kalikimaka (Merry Christmas) (w/ The Andrews Sisters),73,19,426637,+50397,1363583,52260994,,us
+54,+40,Vince Guaraldi Trio - Christmas Time Is Here - Vocal / Remastered 2026,4,54,423486,+57580,1353745,1353745,,us
+55,-10,Mac Miller - Cinderella (w/ Ty Dolla $ign),265,6,412921,-58285,3134476,158474979,,us
+56,-8,Noah Kahan - Stick Season,1468,1,408393,-47625,2930018,857485816,,us
+57,-13,Arctic Monkeys - 505,2081,13,403142,-72858,3260221,885615088,,us
+58,+38,Gene Autry - Here Comes Santa Claus (Right Down Santa Claus Lane),233,27,400699,+34943,766455,113561563,,us
+59,-7,Fuerza Regida - Suzuki (from GTAVI: The Album) (w/ Grand Theft Auto VI),13,35,397940,-49346,3046089,5024777,,us
+60,-11,Olivia Rodrigo - deja vu,634,2,387008,-67418,3275160,331383249,,us
+61,-11,TLC - No Scrubs,271,22,386640,-66929,2832162,96839156,,us
+62,+54,Burl Ives - Rudolph The Red-Nosed Reindeer,234,20,383251,+40433,726069,114363437,,us
+63,-23,Morgan Wallen - Last Thing You Need (from GTAVI: The Album) (w/ Grand Theft Auto VI),70,5,382425,-116971,3270206,30295627,,us
+64,-18,Ella Langley - weren't for the wind,590,7,379836,-80235,3138618,317381828,,us
+65,+53,Frank Sinatra - Let It Snow! Let It Snow! Let It Snow! (w/ B. Swanson Quartet),393,8,378429,+40178,1272272,201227866,,us
+66,+55,The Beach Boys - Little Saint Nick - Stereo Version,3,66,377988,+41336,972867,972867,,us
+67,-25,sombr - back to friends,619,1,377156,-101525,3039901,473298608,,us
+68,-17,Radiohead - Creep,910,9,375971,-74751,3061983,434097605,,us
+69,-10,Miguel - Sure Thing,1137,8,374709,-61546,2731344,506217084,,us
+70,-8,Dominic Fike - Babydoll,512,1,362218,-66782,2918179,347218420,,us
+71,-11,Drake - Janice STFU,196,1,359012,-73454,2762880,164191214,,us
+72,+41,"Kelly Clarkson - Santa, Canât You Hear Me (w/ Ariana Grande)",110,37,355098,+11437,954365,61867957,,us
+73,-19,Foo Fighters - Everlong,1226,28,353870,-90847,2943260,451473702,,us
+74,RE,Vince Guaraldi Trio - Thanksgiving Theme,4,74,353154,,353154,1585732,,us
+75,-10,Steve Lacy - oh yeah?,119,2,352625,-67576,2978454,77805043,,us
+76,-15,The Goo Goo Dolls - Iris,997,9,352580,-78821,2882382,507683244,,us
+77,-19,Tame Impala - Loser,131,3,352467,-85610,2947867,81613015,,us
+78,+45,Pentatonix - Hallelujah,195,44,352339,+16790,687888,76265251,,us
+79,-11,Alyssa Grace - bloodstream,158,23,351284,-56397,2688029,70856954,,us
+80,+74,Frank Sinatra - Have Yourself A Merry Little Christmas - Remastered,141,29,348905,+31780,666030,83080113,,us
+81,+78,Laufey - Winter Wonderland,34,35,346904,+32772,930453,21726814,,us
+82,-12,Drake - Headlines,624,22,344676,-62082,2547092,261383538,,us
+83,-2,Jeezy - Leave You Alone (w/ Ne-Yo),39,55,343584,-40626,2663031,12947852,,us
+84,-17,Gigi Perez - Sailor Song,849,3,340659,-69208,2718748,569850676,,us
+85,+95,Donny Hathaway - This Christmas,183,30,336957,+33734,640180,93195906,,us
+86,RE,Louis Armstrong - What A Wonderful World - Single Version,4,86,331623,,331623,1165900,,us
+87,+23,Chris Stapleton - Tennessee Whiskey,2081,34,331450,-16185,2841134,667138489,,us
+88,RE,Ben Rector - The Thanksgiving Song,2,88,331200,,331200,581870,,us
+89,+3,The Cranberries - Linger - Remastered 2026,100,23,330709,-35669,2596438,39708247,,us
+90,-21,Ariana Grande - hate that i made you love me,182,1,327951,-79689,2548454,144662216,,us
+91,+77,Sabrina Carpenter - A Nonsense Christmas,77,26,326032,+17852,897043,50372700,,us
+92,+5,Omar Apollo - Evergreen,345,8,323391,-42097,2370785,138112462,,us
+93,+13,Bad Bunny - DtMF,690,1,320698,-30536,2228715,483205636,,us
+94,-12,Sam Fender - Rein Me In (w/ Olivia Dean),253,22,320255,-62189,2493628,109151462,,us
+95,-20,Alex Warren - Ordinary,658,1,319703,-75311,2494255,508387525,,us
+96,-17,P!nk - Just Give Me a Reason (w/ Nate Ruess),63,32,319150,-67684,2826601,24754690,,us
+97,-10,J. Cole - No Role Modelz,3897,7,317993,-57418,2525295,1373825996,,us
+98,-24,Djo - End of Beginning,899,1,317286,-78232,2406099,556612146,,us
+99,+4,Childish Gambino - Les,586,38,314154,-38855,2406694,216270569,,us
+100,-24,Morgan Wallen - Been By Now,126,1,313764,-76524,2657775,74111245,,us
+101,+3,Brooks & Dunn - Neon Moon,437,39,312808,-39015,2801102,162707553,,us
+102,RE,"Bruce Springsteen - Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",194,23,312646,,312646,97760450,,us
+103,-14,Katy Perry - The One That Got Away,243,28,309895,-63628,2676712,111270043,,us
+104,-24,SIENNA SPIRO - Great Expectation,142,22,309819,-76337,2413208,58739604,,us
+105,-17,Dexter and The Moonrocks - Freakinâ Out,248,13,309698,-65495,2443997,137986038,,us
+106,+34,Vance Joy - Riptide,1682,12,309332,-14761,2160367,490844877,,us
+107,RE,Bing Crosby - Do You Hear What I Hear? - Remastered 2006,55,20,307917,,307917,21146806,,us
+108,-23,Olivia Rodrigo - cigarette smoke,96,14,307163,-71393,2465060,41937404,,us
+109,-16,Noah Kahan - Northern Attitude,253,53,306005,-60133,2180847,88345513,,us
+110,-1,Olivia Dean - So Easy (To Fall In Love),426,4,304122,-43745,2647597,290534111,,us
+111,-28,Morgan Wallen - I Got Better,560,4,303767,-77392,2630661,367028456,,us
+112,-11,The Red Clay Strays - Wondering Why,851,70,303396,-55931,2248529,320368681,,us
+113,RE,Gwen Stefani - You Make It Feel Like Christmas (w/ Blake Shelton),157,41,303353,,303353,80241676,,us
+114,RE,Andy Williams - Happy Holiday / The Holiday Season,156,35,301231,,301231,77175318,,us
+115,-24,Cody Johnson - Take Me Back (Leave Me There),106,39,301224,-65973,2377713,39713150,,us
+116,-16,Ravyn Lenae - Love Me Not,627,5,300479,-59654,2297729,350442478,,us
+117,-39,Olivia Rodrigo - drop dead,224,1,300017,-86836,2580191,178306690,,us
+118,-23,Feist - My Moon My Man,17,27,299756,-66132,2762873,6656074,,us
+119,-7,Frank Ocean - Novacane,554,52,299000,-45439,1780162,183839457,,us
+120,-30,Evanescence - Bring Me To Life,434,29,297628,-75062,2510154,159555239,,us
+121,-13,Mazzy Star - Fade Into You,398,33,295811,-52898,2199433,141432516,,us
+122,RE,Jonas Brothers - Like It's Christmas,149,43,294555,,294555,64883736,,us
+123,-4,Temper City - Self Aware,227,17,294010,-44145,2467827,111977030,,us
+124,+13,Bryson Tiller - Don't,2033,7,293855,-32252,2416798,644374712,,us
+125,+6,J. Cole - Power Trip (w/ Miguel),235,32,292147,-37706,2289733,68728956,,us
+126,+19,Bad Bunny - EoO,600,4,292089,-29299,2135365,283032629,,us
+127,+2,Frank Ocean - Thinkin Bout You,810,36,290733,-40086,2132737,294961855,,us
+128,-30,Ella Langley - I Can't Love You Anymore (w/ Morgan Wallen),217,13,290693,-73208,2347392,116774825,,us
+129,+9,"Tyler, The Creator - See You Again (w/ Kali Uchis)",1992,3,290256,-35328,2321463,993489646,,us
+130,-6,Michael Jackson - Billie Jean,338,2,289637,-45562,2200006,186555194,,us
+131,+35,Olivia Rodrigo - take me home (4 christmas),18,8,288503,-21559,1412482,6590038,,us
+132,-17,Justin Bieber - Beauty And A Beat (w/ Nicki Minaj),233,2,288452,-54448,2455273,140733629,,us
+133,-34,Harry Styles - Coming Up Roses,69,5,287816,-73079,2436800,36060527,,us
+134,-14,Kanye West - Flashing Lights (w/ Dwele),1292,42,287557,-49586,2479147,466603393,,us
+135,-51,Dua Lipa - Go Easy (from GTAVI: The Album) (w/ Grand Theft Auto VI),6,23,287030,-93841,2193388,2193388,,us
+136,=,A Boogie Wit da Hoodie - Still Think About You,77,61,285348,-41469,2474092,25099601,,us
+137,+13,"Waka Flocka Flame - No Hands (w/ Roscoe Dash, Wale)",623,27,282500,-35173,2321411,240028965,,us
+138,RE,Marvin Gaye - Ain't No Mountain High Enough (w/ Tammi Terrell),226,50,282455,,282455,73984747,,us
+139,-66,Taylor Swift - Patient Zero,63,1,282182,-119633,2413834,52740824,,us
+140,-33,Riley Green - Worst Way,686,34,281144,-67942,2394639,305563832,,us
+141,-14,Billie Eilish - BIRDS OF A FEATHER,920,2,281027,-51404,1456112,851270381,,us
+142,RE,The Jackson 5 - I Saw Mommy Kissing Santa Claus,189,26,279752,,279752,86216864,,us
+143,-1,"Jeff Buckley - Lover, You Should've Come Over",300,49,279193,-42311,2224389,105990246,,us
+144,-22,F3miii - NOBLE,214,17,278658,-56929,2331900,100413079,,us
+145,-43,Noah Kahan - The Great Divide,269,1,277692,-75661,2124844,136879861,,us
+146,+23,Creedence Clearwater Revival - Have You Ever Seen The Rain,546,64,275495,-31633,582623,203713750,,us
+147,-42,Harry Styles - Sign of the Times,375,17,275485,-76248,2233854,142458060,,us
+148,+42,George Michael - Cowboys and Angels - Remastered,15,84,275077,-24582,1770233,4628851,,us
+149,-24,Morgan Wallen - I'm The Problem,659,1,274195,-60152,2195907,363052418,,us
+150,RE,Band Aid - Do They Know It's Christmas? - 1984 Version,281,7,273953,,273953,139724753,,us
+151,-3,"Drake - One Dance (w/ Wizkid, Kyla)",1405,1,273081,-45870,2158936,708216365,,us
+152,RE,Olivia Dean - Nice To Each Other,233,24,272044,,272044,93929630,,us
+153,-9,Bruno Mars - That's What I Like,1012,3,271527,-49889,2112112,437861889,,us
+154,-22,Lady Gaga - Die With A Smile (w/ Bruno Mars),830,1,271160,-57326,2027107,691913304,,us
+155,+23,Shaboozey - A Bar Song (Tipsy),928,1,271121,-32481,574723,749261914,,us
+156,+35,Keyshia Cole - Love,122,91,270045,-29497,2266213,41863036,,us
+157,-24,Don Toliver - E85,301,4,269900,-58427,2116736,197279021,,us
+158,RE,Elton John - Step Into Christmas,123,37,269044,,269044,60736794,,us
+159,-48,Zach Bryan - Something in the Orange,1675,4,269037,-76813,2124852,983162023,,us
+160,-25,sombr - My Body Isn't Ready,74,25,268715,-58654,907878,27259886,,us
+161,-31,BigXthaPlug - Hell At Night (w/ Ella Langley),466,19,268648,-61733,2240767,200995939,,us
+162,-9,Nelly Furtado - Promiscuous (w/ Timbaland),624,28,268546,-48682,2296516,220441723,,us
+163,RE,Perry Como - (There's No Place Like) Home for the Holidays - 1959 Version,142,44,267036,,267036,63409304,,us
+164,-47,Zach Bryan - I Remember Everything (w/ Kacey Musgraves),1188,1,266419,-71841,2197650,868603247,,us
+165,-18,"Drake - Hold On, We're Going Home (w/ Majid Jordan)",467,40,265774,-53909,2183222,59644240,,us
+166,-32,SIENNA SPIRO - Die On This Hill,256,12,264803,-63486,2047167,112599066,,us
+167,-18,Carly Rae Jepsen - Run Away With Me,67,82,264054,-54757,582865,7993074,,us
+168,-13,Slayyyter - brand new chanel$,33,75,263775,-51130,2067961,10490992,,us
+169,-8,Kendrick Lamar - All The Stars (w/ SZA),1505,2,263445,-48370,575260,723733257,,us
+170,-24,Zara Larsson - Midnight Sun,302,26,263322,-57512,1140393,118455015,,us
+171,RE,Panchiko - D>E>A>T>H>M>E>T>A>L,63,94,263208,,1842346,19981138,,us
+172,+24,TV Girl - Lovers Rock,1318,35,263194,-32961,2090764,539442587,,us
+173,NEW,FINNEAS - My Moon My Man,1,173,262564,,262564,262564,,us
+174,RE,Mariah Carey - Christmas (Baby Please Come Home),236,31,262419,,262419,105135153,,us
+175,-13,Kendrick Lamar - luther,660,1,261794,-49745,2094374,563819642,,us
+176,-37,Olivia Rodrigo - expectations (w/ Chappell Roan),42,2,261752,-63295,2151026,25919926,,us
+177,-4,Drake - Passionfruit,1439,1,261098,-44206,2049275,541237862,,us
+178,NEW,Nat King Cole - Joy To The World - Remastered 1999,1,178,261038,,261038,261038,,us
+179,-51,Hoobastank - The Reason,37,120,260973,-70274,2107565,11306391,,us
+180,-66,sombr - Homewrecker,294,11,260360,-83274,2156840,140832740,,us
+181,=,Steve Lacy - Bad Habit,1154,1,259620,-43347,2237850,639974152,,us
+182,-41,Olivia Rodrigo - maggots for brains,167,3,259513,-64309,2152865,83061447,,us
+183,-26,Kings of Leon - Wait for Me,43,60,258946,-55799,2403686,14228490,,us
+184,NEW,Vince Guaraldi Trio - Linus And Lucy - Remastered 2026,1,184,258451,,258451,258451,,us
+185,-27,Chappell Roan - Pink Pony Club,866,4,257963,-56305,857335,553877199,,us
+186,RE,Miguel - damned,157,72,257752,,257752,53814201,,us
+187,+13,Daniel Caesar - Who Knows,255,28,257609,-36663,1726642,99365832,,us
+188,RE,"Lil Wayne - Love Me (w/ Drake, Future)",860,68,257554,,1875648,301138341,,us
+189,RE,Bad Bunny - BAILE INoLVIDABLE,622,2,257308,,257308,341864813,,us
+190,-27,Rihanna - Don't Stop The Music,405,26,256939,-54461,2378957,157831397,,us
+191,-5,Rihanna - Love On The Brain,519,11,256749,-43518,2023836,144647070,,us
+192,RE,Emmanuel Cortes - Amor,51,137,256357,,256357,15693795,,us
+193,-4,"HUNTR/X - Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",520,1,256108,-43567,1456639,473751501,,us
+194,-15,Post Malone - I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen),915,1,256097,-47498,1152929,776324397,,us
+195,-3,Faouzia - UNETHICAL,16,134,255806,-43083,1702897,4762518,,us
+196,-70,Zach Bryan - Lies (w/ Lana Del Rey),42,2,255777,-78097,2156730,23612006,,us
+197,RE,"Bleachers - Merry Christmas, Please Don't Call",10,91,255348,,255348,4749487,,us
+198,-16,Arctic Monkeys - Do I Wanna Know?,261,63,255082,-47837,2075775,34181321,,us
+199,-32,Paramore - The Only Exception,74,29,254601,-53846,2302996,25072046,,us
+200,-5,Don Toliver - No Pole,770,18,254508,-42453,2080760,374524082,,us
